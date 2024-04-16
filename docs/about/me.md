@@ -1,7 +1,9 @@
 # Sobre mi
 
-![](../images/perezoso.jpg)
+![](../images/yo.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Me llamo Francisco Guimaraens, tengo 25 años, resido en Salto-Uruguay y soy tecnólogo industrial mecánico. 
+Actualmente me desempeño como técnico en el Laboratorio de Energía Solar (LES). Mi trabajo incluye el mantenimiento de equipos y la realización de ensayos de colectores solares, así como otras tareas en ayuda a diferentes investigadores.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
+
+ **[my website](https://about.me/francisco_guimaraens/getstarted)**
