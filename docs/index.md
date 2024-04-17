@@ -1,6 +1,6 @@
 ## Especialización en formación digital
 
-![](../images/perezoso.jpg)
+![](../images/fabricacion-digitasl.jpg)
 
 
 
