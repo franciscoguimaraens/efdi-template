@@ -1,8 +1,8 @@
 ## Especialización en formación digital
 
 
-[](../Fabricacion-digital.jpg)
 
+![](../images/Fabricacion-digital.jpg)
 
 
  
