@@ -2,7 +2,7 @@
 
 
 
-![](../images/Fabricacion-digital.jpg)
+![](./images/Fabricacion-digital.jpg)
 
 
  
