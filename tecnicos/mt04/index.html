@@ -461,18 +461,49 @@
                 
                 
                 <h1 id="mt04">MT04<a class="headerlink" href="#mt04" title="Permanent link">&para;</a></h1>
+<p><strong>Introducción a la electrónica y programación</strong></p>
+<p><strong>Objetivo:</strong></p>
+<p>El objetivo de este modulo es introducirnos en los principios de la programación y electrónica aplicada en microcontroladores. </p>
 <p><strong>Definiciones:</strong></p>
-<p>Arduino:</p>
-<p>La tarjeta de desarrollo del microcontrolador la cual será el corazón de tus proyectos. Es un simple ordenador, pero uno con el cual todavía no puedes realizar nada. Construirás circuitos e interfaces para hacer cosas y decirle al microcontrolador como trabajar con otros componentes.</p>
-<p>Placa de pruebas: Una placa sobre la cual puede montar componentes electrónicos. Es como un panel con agujeros, con filas de agujeros que le permite conectar juntos cables y componentes electrónicos. También están disponibles tarjetas sobre las que hay que soldar y también sin necesidad de usar un soldador como la mostrada aquí.</p>
-<p>Pantalla de Cristal Líquido (LCD): Un tipo de pantalla numérica o gráfica basado en cristal líquido. Los LCDs están disponibles en varios tamaños, formas y estilos. El que se incluye con este kit dispone de 2 filas con 16 caracteres en cada una de ellas.</p>
-<p>Cables puente: Utilizarlos para conectar unos componentes con otros sobre la placa de prueba, y la tarjeta de Arduino.</p>
-<p>Cable USB: Permite conectar la placa Arduino Uno a un ordenador para que se pueda programar. También proporciona la alimentación necesaria tanto a la placa Arduino como a todos los componentes electrónicos.</p>
-<p>Resistencias: Se opone al paso de la corriente eléctrica en un circuito, dando como resultado a un cambio en la tensión y en dicha corriente. El valor de las resistencias se mide en ohmios (se representa por la letra griega omega:
-). Las bandas de colores en un lado de la resistencia indica su valor (ver la tabla de código de colores de la resistencia en la página 41).</p>
-<p>Diodos Emisores de Luz (LEDs): Un tipo de diodo que emite luz cuando la corriente lo atraviesa. Como en todos los diodos, la corriente solo fluye en un sentido a través de estos componentes. Estará probablemente familiarizado con ellos al verlos como indicadores dentro de una gran variedad de dispositivos electrónicos. El ánodo, que normalmente se conecta al positivo de la alimentación, es generalmente el terminal más largo, y el cátodo el terminal más corto.</p>
-<p>Potenciómetro: Una resistencia variable con tres terminales. Dos de estos terminales están conectados a los extremos de una resistencia fija. El terminal central se puede mover a través de la superficie de la resistencia fija (dispone de un mando), consiguiendo de esta forma dos valores diferentes de resistencia según el terminal extremo que se tome como referencia. Cuando los terminales extremos del potenciómetro se conectan entre una tensión y masa, en el terminal central aparece una tensión que es proporcional al giro del mando central, entre cero (un extremo) y la máxima tensión (el otro extremo).</p>
-<p>Sensores PIR o sensor de movimiento: Son dispositivos que detectan variaciones de la radiación infrarroja en el área de cobertura, por lo que son especialmente útiles para detectar la presencia de personas o animales a través del calor que emiten sus cuerpos. El concepto pasivo del nombre de PIR hace referencia a que no generan de forma activa ninguna señal y solo reciben radiaciones para su funcionamiento.</p>
+<p>Para dicho modulo debemos de saber y tener presentes algunos conceptos básicos de electricidad.</p>
+<p><em>¿Qué es la electricidad?</em> La electricidad es un flujo de electrones, estos van pasando de átomo en átomos produciendo una corriente.
+En la electricidad hay tres conceptos básicos que son:</p>
+<p><em>Voltaje (V):</em>&gt; Es la fuerza de atracción que hace que los electrones se muevan de un punto a otro cuando hay diferencia entre el número de electrones en esos dos puntos. Se mide en Voltios y se denomina con una V.
+<em>Corriente (I):</em>  La corriente eléctrica es producto del flujo de electrones que es excitado por el voltaje, y que se transfiere a través de un conductor que otorga baja oposición al flujo de electrones.  Se mide en Ampere y se denomina con una A.
+<em>Resistencia (R):</em>&gt; La resistencia eléctrica es toda oposición que encuentra la corriente a su paso por un circuito eléctrico cerrado, atenuando o frenando el libre flujo de circulación de las cargas eléctricas o electrones. Se mide en Ohm y se denomina con la letra griega Ω.
+<em>Ley de Ohm:</em> Esta ley relaciona la tensión eléctrica, la corriente eléctrica y la resistencia eléctrica de la siguiente manera:
+La intensidad que circula por un punto del circuito eléctrico es directamente proporcional a la tensión entre sus extremos e inversamente proporcional a la resistencia.
+(I=V*R)
+(V=I/R)
+(R=V/I)</p>
+<p>En la electricidad tenemos dos tipos de corrientes la corriente continua (CC-DC) y la corriente alterna (AC-CA).</p>
+<p>Se denomina corriente continua a el flujo continuo de electrones entre dos puntos con diferencia de potencial, sin cambiar de dirección. Cualquier corriente que siempre tenga la misma polaridad se denomina corriente continua. Este tipo de corriente es la utilizada en baterías, pilas y cualquier otro objeto de acumulación de carga eléctrica.</p>
+<p>La corriente alterna se denomina por el cambio de dirección en el flujo de electrones. Este tipo de corriente es la utilizada hoy en día y es la que tenemos presentes en nuestras casas.</p>
+<p><em>¿Qué es la electrónica?</em> La electrónica es una parte de la ciencia que estudia cómo controlar los electrones para crear aparatos como celulares, computadoras y televisores. La electrónica se divide en varias ramas, la electrónica digital, análoga y de potencia.</p>
+<p>La electrónica digital es una rama de la electrónica que se centra en el manejo de señales discretas, principalmente binarias, es decir, que solo tienen dos estados: 0 y 1. Estos estados representan apagado y encendido, respectivamente. Este tipo de electrónica es la base de la informática moderna y de muchos dispositivos electrónicos. </p>
+<p>En la electrónica digital se utilizan componentes como: Puertas lógicas, flip-flops, microprocesadores y microcontroladores, memorias.</p>
+<p><em>Microcontroladores:</em> Los microcontroladores son pequeños chips que funcionan como mini computadoras. Incluyen un procesador, memoria y puertos de entrada/salida en un solo dispositivo. Se utilizan para controlar aparatos y sistemas específicos, como electrodomésticos, automóviles y dispositivos médicos. Algunos ejemplos de estos son:
+Arduino: Ideal para proyectos.
+PIC: Usados en aplicaciones industriales.
+AVR: Común en proyectos de electrónica.</p>
+<p>En nuestro caso utilizaremos Arduino.</p>
+<p><em>Práctica:</em></p>
+<p>En mi caso realice la practica con diferentes sensores.</p>
+<p><img alt="" src="../../images/MT04/movimiento.jpeg" /></p>
+<p><img alt="" src="../../images/MT04/sinmovimiento.jpeg" /></p>
+<p><img alt="" src="../../images/MT04/listo.png" /></p>
+<p><img alt="" src="../../images/MT04/escribiendo.PNG" /></p>
+<p><img alt="" src="../../images/MT04/Captura.PNG" /></p>
+<p>Anexo:</p>
+<p><em>Arduino:</em> La tarjeta de desarrollo del microcontrolador la cual será el corazón de tus proyectos. Es un simple ordenador, pero uno con el cual todavía no puedes realizar nada. Construirás circuitos e interfaces para hacer cosas y decirle al microcontrolador como trabajar con otros componentes.</p>
+<p><em>Placa de pruebas:</em> Una placa sobre la cual puede montar componentes electrónicos. Es como un panel con agujeros, con filas de agujeros que le permite conectar juntos cables y componentes electrónicos. También están disponibles tarjetas sobre las que hay que soldar y también sin necesidad de usar un soldador como la mostrada aquí.</p>
+<p><em>Pantalla de Cristal Líquido (LCD):</em> Un tipo de pantalla numérica o gráfica basado en cristal líquido. Los LCDs están disponibles en varios tamaños, formas y estilos. El que se incluye con este kit dispone de 2 filas con 16 caracteres en cada una de ellas.</p>
+<p><em>Cables puente:</em> Utilizarlos para conectar unos componentes con otros sobre la placa de prueba, y la tarjeta de Arduino.</p>
+<p><em>Cable USB:</em> Permite conectar la placa Arduino Uno a un ordenador para que se pueda programar. También proporciona la alimentación necesaria tanto a la placa Arduino como a todos los componentes electrónicos.</p>
+<p><em>Resistencias:</em> Se opone al paso de la corriente eléctrica en un circuito, dando como resultado a un cambio en la tensión y en dicha corriente. El valor de las resistencias se mide en ohmios. Las bandas de colores en un lado de la resistencia indica su valor.</p>
+<p><em>Diodos Emisores de Luz (LEDs):</em> Un tipo de diodo que emite luz cuando la corriente lo atraviesa. Como en todos los diodos, la corriente solo fluye en un sentido a través de estos componentes. Estará probablemente familiarizado con ellos al verlos como indicadores dentro de una gran variedad de dispositivos electrónicos. El ánodo, que normalmente se conecta al positivo de la alimentación, es generalmente el terminal más largo, y el cátodo el terminal más corto.</p>
+<p><em>Potenciómetro:</em> Una resistencia variable con tres terminales. Dos de estos terminales están conectados a los extremos de una resistencia fija. El terminal central se puede mover a través de la superficie de la resistencia fija (dispone de un mando), consiguiendo de esta forma dos valores diferentes de resistencia según el terminal extremo que se tome como referencia. Cuando los terminales extremos del potenciómetro se conectan entre una tensión y masa, en el terminal central aparece una tensión que es proporcional al giro del mando central, entre cero (un extremo) y la máxima tensión (el otro extremo).</p>
+<p><em>Sensores PIR o sensor de movimiento:</em> Son dispositivos que detectan variaciones de la radiación infrarroja en el área de cobertura, por lo que son especialmente útiles para detectar la presencia de personas o animales a través del calor que emiten sus cuerpos. El concepto pasivo del nombre de PIR hace referencia a que no generan de forma activa ninguna señal y solo reciben radiaciones para su funcionamiento.</p>
 <p><strong>Imagenes:</strong></p>
 <p><img alt="" src="../../images/MT04/movimiento.jpeg" /></p>
 <p><img alt="" src="../../images/MT04/sinmovimiento.jpeg" /></p>
