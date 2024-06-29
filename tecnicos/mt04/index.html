@@ -488,7 +488,25 @@ PIC: Usados en aplicaciones industriales.
 AVR: Común en proyectos de electrónica.</p>
 <p>En nuestro caso utilizaremos Arduino.</p>
 <p><em>Práctica:</em></p>
-<p>En mi caso realice la practica con diferentes sensores.</p>
+<p>Para realizar dichas prácticas utilice 2 programas diferentes, Tinkercad y Arduino IDE.</p>
+<p>Tinkercad me permitió desarrollar y probar los proyectos antes de llevarlos a cabo en el Microprocesador físico, al igual que ir probando y desarrollando el código para su funcionamiento.
+Arduino IDE lo utilice para terminar y mejorar mi código para luego enviarlo a mi Microprocesador.  </p>
+<p>En mi caso realice diferentes practicas con sensores y actuadores donde utilice luces LEDs, sensor PIR y también un potenciómetro.</p>
+<p>La primer practica que realice fue el encendido de una LEDs.
+Primero realice mi circuito en Tinkercad con sus componentes para luego hacer el programa correspondiente.
+Este circuito está compuesto de una LEDs de color verde y una resistencia de 330Ω.
+La idea de este era que encendiera por 1000ms y se mantenga apagada por otros 1000ms, y así lo repitiera una y otra vez.</p>
+<p>fotos 1</p>
+<p>En este segundo proyecto realice el encendido de una LEDs con un potenciómetro, la idea de este era encender y apagar dicha luz con el potenciómetro. Para este circuito utilice una LEDs de color verde, una resistencia y un potenciómetro. </p>
+<p>fotos 2</p>
+<p>Como tercer proyecto realice una prueba donde por medio de un sensor de ultrasonido podía controlar el movimiento de un servomotor.
+Este consistía en que dependiendo de la distancia que este el objeto frente al sensor ultrasónico dependería directamente el movimiento del servomotor. Este ejercicio no lo pude llevar a cabo porque tuve algunos problemas con el sensor de ultrasonido. </p>
+<p>foto 3</p>
+<p>Como cuarto y último proyecto utilice un sensor PIR.
+En este proyecto utilice un sensor PIR, dos luces LEDs, dos resistencias de 330Ω, y una pantalla LCD. El proyecto consistió en que al pasar un objeto frente al sensor encendiera una luz roja y la pantalla me imprimiera un aviso de &ldquo;Movimiento!!&rdquo; y al contrario cuando no hubiese movimiento me encendiera una luz verde e imprimiera en la pantalla &ldquo;Sin movimiento..&rdquo;.
+Al realizar esta prueba tuve varios errores en el cual uno de ellos fue no darme cuenta que los pines de la placa + y - a la mitad cortaba su continuidad. Esto me llevo un rato darme cuenta el porque me funcionaba una luz y la otra no.
+Al realizar mi proyecto en Tinkercad y llevarlo a mi Microcontrolador físico note que la cantidad de pines no era la misma la cual esto me tomo un tiempo estudiarla y entender como era el circuito.
+Otro de mis problemas fue que al energizar mi pantalla LCD no funcionaba, hasta que mirando unos tutoriales pude comprender cual era el problema. Este consistía en que había que enviarle primeramente a la LCD un código que era necesario para crear la comunicación. </p>
 <p><img alt="" src="../../images/MT04/movimiento.jpeg" /></p>
 <p><img alt="" src="../../images/MT04/sinmovimiento.jpeg" /></p>
 <p><img alt="" src="../../images/MT04/listo.png" /></p>
@@ -512,6 +530,8 @@ AVR: Común en proyectos de electrónica.</p>
 <p><img alt="" src="../../images/MT04/Captura.PNG" /></p>
 <p>Link de programa:  <a href="../Nuevacarpeta/Progrmasensor.ino" download="Programa"> <strong>Descargar</strong> </a></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sgiSL2SN-Hk?si=4qXW4LrBM_1LGsYH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://youtube.com/shorts/StjNxcEMJcY?si=VUcNP90ZzkCYuAze" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 
                   
                     
@@ -520,7 +540,7 @@ AVR: Común en proyectos de electrónica.</p>
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">June 28, 2024</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">June 29, 2024</span>
     
   </small>
 </div>
