@@ -512,17 +512,19 @@ Este consistía en que dependiendo de la distancia que este el objeto frente al 
 En este proyecto utilice un sensor PIR, dos luces LEDs, dos resistencias de 330Ω, y una pantalla LCD. El proyecto consistió en que al pasar un objeto frente al sensor encendiera una luz roja y la pantalla me imprimiera un aviso de &ldquo;Movimiento!!&rdquo; y al contrario cuando no hubiese movimiento me encendiera una luz verde e imprimiera en la pantalla &ldquo;Sin movimiento..&rdquo;.
 Al realizar esta prueba tuve varios errores en el cual uno de ellos fue no darme cuenta que los pines de la placa + y - a la mitad cortaba su continuidad. Esto me llevo un rato darme cuenta el porque me funcionaba una luz y la otra no.
 Al realizar mi proyecto en Tinkercad y llevarlo a mi Microcontrolador físico note que la cantidad de pines no era la misma la cual esto me tomo un tiempo estudiarla y entender como era el circuito.
-Otro de mis problemas fue que al energizar mi pantalla LCD no funcionaba, hasta que mirando unos tutoriales pude comprender cual era el problema. Este consistía en que había que enviarle primeramente a la LCD un código que era necesario para crear la comunicación. </p>
+Otro de mis problemas fue que al energizar mi pantalla LCD no funcionaba, hasta que mirando unos tutoriales pude comprender cual era el problema. Este consistía en que había que enviarle primeramente a la LCD un código que era necesario para crear la comunicación. 
+También me sucedió que, aunque no hubiera movimiento y mi tiempo de regreso en el código al modo “sin movimiento” sea muy corto, este demoraba bastante en volver. Hasta que me di cuenta que el sensor PIR tenia dos tornillos de regulación el cual uno regula la sensibilidad y distancia con la cual detecta y el otro el tiempo en el cual se mantiene activo, le baje al mínimo este último y quedo funcionando perfectamente como yo lo quería.</p>
 <p><img alt="" src="../../images/MT04/movimiento.jpeg" /></p>
 <p><img alt="" src="../../images/MT04/sinmovimiento.jpeg" /></p>
 <p><img alt="" src="../../images/MT04/listo.png" /></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sgiSL2SN-Hk?si=4qXW4LrBM_1LGsYH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p>Codigo proyecto 1:  <a href="../Nuevacarpeta/prueba1.ino" download="Proyecto1"> <strong>Descargar</strong> </a>
-Codigo proyecto 2:  <a href="../Nuevacarpeta/prueba2.ino" download="Proyecto2"> <strong>Descargar</strong> </a>
-Codigo proyecto 3:  <a href="../Nuevacarpeta/prueba3.ino" download="Proyecto3"> <strong>Descargar</strong> </a>
-Codigo proyecto 4:  <a href="../Nuevacarpeta/Progrmasensor.ino" download="Proyecto4"> <strong>Descargar</strong> </a></p>
-<p>Anexo:</p>
+<p>Codigo proyecto 1:  <a href="../Nuevacarpeta/prueba1.ino" download="Proyecto1"> <strong>Descargar</strong> </a></p>
+<p>Codigo proyecto 2:  <a href="../Nuevacarpeta/prueba2.ino" download="Proyecto2"> <strong>Descargar</strong> </a></p>
+<p>Codigo proyecto 3:  <a href="../Nuevacarpeta/prueba3.ino" download="Proyecto3"> <strong>Descargar</strong> </a></p>
+<p>Codigo proyecto 4:  <a href="../Nuevacarpeta/Progrmasensor.ino" download="Proyecto4"> <strong>Descargar</strong> </a></p>
+<p><strong>Anexo:</strong></p>
+<p>Otras definiciones de los sensores, actuadores y elementos utilizados: </p>
 <p><em>Arduino:</em> La tarjeta de desarrollo del microcontrolador la cual será el corazón de tus proyectos. Es un simple ordenador, pero uno con el cual todavía no puedes realizar nada. Construirás circuitos e interfaces para hacer cosas y decirle al microcontrolador como trabajar con otros componentes.</p>
 <p><em>Placa de pruebas:</em> Una placa sobre la cual puede montar componentes electrónicos. Es como un panel con agujeros, con filas de agujeros que le permite conectar juntos cables y componentes electrónicos. También están disponibles tarjetas sobre las que hay que soldar y también sin necesidad de usar un soldador como la mostrada aquí.</p>
 <p><em>Pantalla de Cristal Líquido (LCD):</em> Un tipo de pantalla numérica o gráfica basado en cristal líquido. Los LCDs están disponibles en varios tamaños, formas y estilos. El que se incluye con este kit dispone de 2 filas con 16 caracteres en cada una de ellas.</p>
