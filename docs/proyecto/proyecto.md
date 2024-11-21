@@ -7,4 +7,8 @@ hide:
 
 <strong>Desalinizador de agua con energia solar</strong>
 
-<title>Desalinizador de agua con energia solar</title>
+<head>
+    <title>Mi Página Web</title>
+</head>
+
+
