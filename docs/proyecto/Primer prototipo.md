@@ -1,0 +1,7 @@
+---
+hide:
+    - toc
+---
+
+# Primer prototipo
+
