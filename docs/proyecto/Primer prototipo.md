@@ -61,28 +61,13 @@ En esta reformación también opte por poner una placa reflectiva en su base int
 ![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/segunda.jpeg)
 
 
-<style>
-  .contenedor {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    gap: 10px; /* Espaciado entre imágenes */
-  }
 
-  .contenedor img {
-    width: 100%;
-  }
-</style>
+![Imagen 1](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/t1.jpeg) ![Imagen 2](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/tt1.jpeg) ![Imagen 3](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/t2.jpeg)
 
-<div class="contenedor">
-  <img src="![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/t1.jpeg)" alt="Imagen 1">
-  <img src="![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/tt1.jpeg)" alt="Imagen 2">
-  <img src="![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/tt1.jpeg)" alt="Imagen 3">
-  <img src="![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/t2.jpeg)" alt="Imagen 4">
-  <img src="![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/tt2.jpeg)" alt="Imagen 5">
-  <img src="![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/t3.jpeg)" alt="Imagen 6">
-  <img src="![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/tt3.jpeg)" alt="Imagen 7">
-</div>
 
+![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/tt2.jpeg)
+![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/t3.jpeg)
+![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/tt3.jpeg)
 
 
 
