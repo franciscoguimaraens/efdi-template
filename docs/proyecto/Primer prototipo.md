@@ -155,23 +155,24 @@ La siguiente prueba fue sacando agua de la misma red pero sin pasar por este pur
 Al estar lejos de una fuente de agua de Mar y no tener acceso a ella opte por agregar una cantidad conocida de Cloruro de sodio (NaCl) a un volumen de agua haciendo asi que este fuera lo mas parecido al agua encontrada en el mar. 
 
 
+![](../images/Proyecto/Primer%20prototipo/Salinizacion/sal1.jpeg)
+![](../images/Proyecto/Primer%20prototipo/Salinizacion/sal2.jpeg)
+
+
 
 
 ![](../images/Proyecto/Tabla%20de%20agua/tabla.PNG)
 <small>Datos obtenidos de las distintas pruebas</small>
 
 
+Produccion:
+Para concluir las pruebas realice mediciones de cuanta cantidad de agua deslinizada podia llegar a obtener con todas estas mejoras.
+En definitiva pude obtener hasta 350ml de agua en un dia de produccion. Esto a una radiacion de 1000W/m2 y a una temperatura ambiente de 30°C en sus extremos maximos.
 
 
 
 
+Anexo:
 
+![](../images/Proyecto/Tabla%20de%20agua/grafica%20datos.PNG)
 
-
-Dimensiones:
--Base: 50cm x 50cm
--Altura:
--Espesor:
--vidrio:
--Cano:
--Aislante:
