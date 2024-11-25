@@ -5,6 +5,8 @@ hide:
 
 # Prototipo
 
+<Mark>Construcción y pruebas de perdidas de calor</Mark> 
+
 Para la realización de este proyecto construí un prototipo que me ayudo a entender el funcionamiento de este y poder ir mejorándolo.
 
 El prototipo comenzó con un primer diseño a mano en una hoja. En este primer diseño definí las características
@@ -139,7 +141,7 @@ Observando las gráficas podemos ver que con una radiación de aproximadamente 1
 
 
 
-
+<Mark>Pruebas de agua<Mark>
 
 
 
