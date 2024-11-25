@@ -27,3 +27,5 @@ El agua cubre el 71% de la superficie terrestre. Sin embargo, el 96,5% están en
 Esto quiere decir que del 71% de agua en nuestro planeta un porcentaje muy bajo es potable y es apto para el consumo humano, sin mencionar la contaminación que se está generando en el transcurso de los anos.
 
 
+-color negro
+-piedras
