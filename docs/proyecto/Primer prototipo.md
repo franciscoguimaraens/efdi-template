@@ -62,12 +62,9 @@ En esta reformación también opte por poner una placa reflectiva en su base int
 
 
 
-![Imagen 1](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/t1.jpeg) ![Imagen 2](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/tt1.jpeg) ![Imagen 3](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/t2.jpeg)
-
-<img src="../images/Proyecto/Primer%20prototipo/Dos%20vidrios/t1.jpeg" alt="Imagen 1" width="200"> &nbsp; <img src="../images/Proyecto/Primer%20prototipo/Dos%20vidrios/tt1.jpeg" alt="Imagen 2" width="200">
-
-
-
+![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/t1.jpeg) 
+![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/tt1.jpeg) 
+![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/t2.jpeg)
 ![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/tt2.jpeg)
 ![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/t3.jpeg)
 ![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/tt3.jpeg)
@@ -146,6 +143,26 @@ Observando las gráficas podemos ver que con una radiación de aproximadamente 1
 
 
 <strong><Mark>Pruebas de agua<Mark></strong>
+
+Para realizar las pruebas de agua utilice un instrumento el cual me permitia la medicion de varios parametros de los cuales tome la conductividad, salinidad y temperatura del agua.
+Estos tres parametros estan relacionados entre si ya que al aumentar la temperatura tambien aumenta la conductividad del agua, lo que tambien ocurre si aumenta o disminuye la salinidad.
+
+![](../images/Proyecto/Primer%20prototipo/Salinizacion/imagen11.jpeg)
+![](../images/Proyecto/Primer%20prototipo/Salinizacion/imagen2.jpeg)
+
+Para realizar las pruebas tome agua provenientes de diferentes lugares. La primera prueba que realice fue sacando agua proveniente de la red de agua potable localizada en mi localidad y pasada por un filtro purificador. 
+La siguiente prueba fue sacando agua de la misma red pero sin pasar por este purificador.
+Al estar lejos de una fuente de agua de Mar y no tener acceso a ella opte por agregar una cantidad conocida de Cloruro de sodio (NaCl) a un volumen de agua haciendo asi que este fuera lo mas parecido al agua encontrada en el mar. 
+
+
+
+
+![](../images/Proyecto/Tabla%20de%20agua/tabla.PNG)
+<small>Datos obtenidos de las distintas pruebas</small>
+
+
+
+
 
 
 
