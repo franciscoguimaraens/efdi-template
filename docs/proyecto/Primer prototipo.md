@@ -156,6 +156,11 @@ Al estar lejos de una fuente de agua de Mar y no tener acceso a ella opte por ag
 
 
 ![](../images/Proyecto/Primer%20prototipo/Salinizacion/sal1.jpeg)
+
+<img src="../images/Proyecto/Primer%20prototipo/Salinizacion/sal2.jpeg" alt="Descripción" width="200">
+<img src="../images/Proyecto/Primer%20prototipo/Salinizacion/sal2.jpeg" alt="Descripción" width="300">
+<img src="../images/Proyecto/Primer%20prototipo/Salinizacion/sal2.jpeg" alt="Descripción" width="100">
+
 ![](../images/Proyecto/Primer%20prototipo/Salinizacion/sal2.jpeg)
 
 
