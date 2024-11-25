@@ -64,6 +64,9 @@ En esta reformación también opte por poner una placa reflectiva en su base int
 
 ![Imagen 1](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/t1.jpeg) ![Imagen 2](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/tt1.jpeg) ![Imagen 3](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/t2.jpeg)
 
+<img src="../images/Proyecto/Primer%20prototipo/Dos%20vidrios/t1.jpeg" alt="Imagen 1" width="200"> &nbsp; <img src="../images/Proyecto/Primer%20prototipo/Dos%20vidrios/tt1.jpeg" alt="Imagen 2" width="200">
+
+
 
 ![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/tt2.jpeg)
 ![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/t3.jpeg)
