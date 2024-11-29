@@ -22,7 +22,10 @@ A mí personalmente me llamo mucho la atención y me parecía algo irreal que pa
 De ahí también me puse a reflexionar la cantidad de personas que no tienen acceso al agua potable siendo que gran parte de nuestro planeta está conformado de agua.
 La decisión de realizar un desalinizador solar es porque gran parte del agua del planeta es salada y una de las energías más abundantes y con un costo económico cero es la energía solar. 
 
-Algunos datos: 
+
+# Marco teórico
+
+
 El agua cubre el 71% de la superficie terrestre. Sin embargo, el 96,5% están en los mares y océanos como agua salada, el 2,5% es agua dulce. Un 68.7% del agua dulce está atrapada en casquetes polares y glaciares, el 30,1% está en manantiales subterráneos y menos del 1% está en ríos y arroyos.
 Esto quiere decir que del 71% de agua en nuestro planeta un porcentaje muy bajo es potable y es apto para el consumo humano, sin mencionar la contaminación que se está generando en el transcurso de los anos.
 
