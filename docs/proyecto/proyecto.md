@@ -86,7 +86,11 @@ La inercia térmica de un material depende principalmente de tres propiedades f�
 <strong>Bibliografia:</Strong>
 
 https://concepto.de/ciclo-del-agua/
+
 https://concepto.de/ciclo-del-agua/#ixzz8syGRpLNJ
+
 Facultad de Arquitectura UdelaR - Cátedra de Acondicionamiento Térmico
+
 Duffie, J.A., & Beckman, W.A. (2013). Solar engineering of thermal processes (4th ed.). Wiley.
+
 Apuesta por la piedra natural: inercia térmica
