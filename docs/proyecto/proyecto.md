@@ -40,6 +40,9 @@ El agua de mar se vierte dentro del recipiente construido en el cual va absorvie
 Este vapor al estar en contacto con una superficie de menor temperatura se condensa provocando que se formen gotas de agua las cuales por medio de la pendiente existente en esa pared se van deslizando hasta llegar al tubo recolector.
 El ciclo no se completa exactamente como se produce en nuestro planeta, ya que el agua resultante de este proceso no vuelve a entrar al ciclo.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mdmG1RlWXkw?si=QpX8cKiYL8XGjrZZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<small>Foto ilustrativa del ciclo del agua</small>
+
 
 <strong>Transferencia de calor por los materiales:</strong>
 
