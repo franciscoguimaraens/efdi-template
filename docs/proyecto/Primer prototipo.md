@@ -39,6 +39,8 @@ Para la realización de los agujeros para la entrada y salida del agua los reali
 El vidrio lo sujete a la su base con silicona lo que me permitió sellarlo para que no se contamine el agua con objetos u agua de lluvia y también para que no haya perdidas de vapor.
 
 
+![](../images/Proyecto/Primer%20prototipo/Cortes%20y%20primer%20armado/foto%20cracion.PNG)
+
 ![](../images/Proyecto/Primer%20prototipo/Cortes%20y%20primer%20armado/primera.jpeg)
 ![](../images/Proyecto/Primer%20prototipo/Cortes%20y%20primer%20armado/segunda.jpeg)
 ![](../images/Proyecto/Primer%20prototipo/Cortes%20y%20primer%20armado/tercera.jpeg)
