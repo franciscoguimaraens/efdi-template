@@ -18,9 +18,11 @@ de las gotas de agua acumuladas por la condensación en el vidrio superior.
 
 
 
-![](../images/Proyecto/Ideas%20iniciales/solsticios.gif)
+![](../images/Proyecto/Ideas%20iniciales/sol.PNG)
+
 <small>Ángulo Solar</small>
 ![](../images/Proyecto/Ideas%20iniciales/WhatsApp%20Image%202024-11-25%20at%2010.57.24%20AM.jpeg)
+
 <small>Bosquejo inicial</small>
 
 <strong>Construcción:</strong>
@@ -41,6 +43,7 @@ El vidrio lo sujete a la su base con silicona lo que me permitió sellarlo para 
 
 
 ![](../images/Proyecto/Primer%20prototipo/Cortes%20y%20primer%20armado/foto%20cracion.PNG)
+
 <small>Corte y ensamble</small>
 
 -Prueba 1:
@@ -57,12 +60,14 @@ En esta reformación también opte por poner una placa reflectiva en su base int
 
 
 ![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/prueba%202.PNG)
+
 <small>Colocación de doble vidrio</small> 
 
 
 
 
 ![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/prueba%20dos%20termicas.PNG) 
+
 <small>Fotos térmicas sin aislación</small>
 
 
@@ -75,6 +80,7 @@ Cabe mencionar que la inclinación del sensor PAR estaba en la misma inclinació
 
 
 ![](../images/Proyecto/Primer%20prototipo/Data%20Logger%20y%20sensores/prueba%203.PNG)
+
 <small>Adquisidor de datos y sensores de temperatura</small>
 
 
@@ -82,6 +88,7 @@ Cabe mencionar que la inclinación del sensor PAR estaba en la misma inclinació
 Datos:
 
 ![](../images/Proyecto/Graficas/Primeras_Modificaciones.png)
+
 <small>Gráfica de radiacón y temperaturas (Prueba 2)</smll>
 
 
@@ -96,15 +103,18 @@ Al mirar las gráficas podemos apreciar que para una radiación de aproximadamen
 Al examinar las fotos térmicas vistas anterior mente opte por aislar el acumulador. Utilice espuma plast de 2 cm de espesor y membrana refractante para mitigar las perdidas.
 
 ![](../images/Proyecto/Primer%20prototipo/Una%20aislacion/prueba%204.PNG)
+
 <small>Aislación térmica</smll>
 
 
 ![](../images/Proyecto/Primer%20prototipo/Una%20aislacion/prueba%20termica.PNG)
+
 <small>Fotos térmicas con una aislación</small>
 
 
 
 ![](../images/Proyecto/Graficas/Media_Modificacion.png)
+
 <small>Gráfica de radiacón y temperaturas (Prueba 3)</small>
 
 En la gráfica podemos observar una mejora del aumento de las temperaturas en el interior del acumulador.
@@ -118,13 +128,16 @@ Junto a este cambio realice la extracción de la placa refractante que tenía en
 
 
 ![](../images/Proyecto/Primer%20prototipo/Dos%20aisalcion/doble%20aisalcion%20termica.PNG)
+
 <small>Fotos térmicas con doble aislación</small>
 
 
 ![](../images/Proyecto/Graficas/Ultima_Modificacion.png)
+
 <small>Gráficas de radiación y temperaturas (Prueba 4)</small>
 
 ![](../images/Proyecto/Primer%20prototipo/Graava/grava.PNG)
+
 <small>Grava</small>
 
 Observando las gráficas podemos ver que con una radiación de aproximadamente 1000W/m2 y una temperatura ambiente de 30°C tenemos una diferencia de temperatura de aproximadamente 50°C
@@ -137,6 +150,7 @@ Para realizar las pruebas de agua utilice un instrumento el cual me permitia la 
 Estos tres parametros estan relacionados entre si ya que al aumentar la temperatura tambien aumenta la conductividad del agua, lo que tambien ocurre si aumenta o disminuye la salinidad.
 
 ![](../images/Proyecto/Primer%20prototipo/Salinizacion/salinizador.PNG)
+
 <small>Instrumento para medir salinidad, conductividad y temperatura<small>
 
 
@@ -146,10 +160,12 @@ Al estar lejos de una fuente de agua de Mar y no tener acceso a ella opte por ag
 
 
 ![](../images/Proyecto/Primer%20prototipo/Salinizacion/salll.PNG)
+
 <small>Agua salada</small>
 
 
 ![](../images/Proyecto/Tabla%20de%20agua/cambiar.PNG)
+
 <small>Datos obtenidos de las distintas pruebas</small>
 
 
@@ -163,5 +179,6 @@ En definitiva pude obtener hasta 350ml de agua en un dia de produccion. Esto a u
 <strong>Anexo:</strong>
 
 ![](../images/Proyecto/Tabla%20de%20agua/grafica%20datos.PNG)
+
 <small>Tambla de medidas</small>
 
