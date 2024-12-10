@@ -14,4 +14,4 @@ hide:
 ¿Quieres construir tu desalinizador solar? Descarga y sigue los siguientes pasos 
 
 
- Código proyecto 1:  <a href="../Nuevacarpeta/Cómo construir mi desalinizador solar.pdf" download="Desalinizador Solar"> <strong>Descargar</strong> </a>
+ <a href="../Nuevacarpeta/Cómo_construir_mi_desalinizador_solar.pdf" download="Desalinizador Solar"> <strong>Descargar</strong> </a>
