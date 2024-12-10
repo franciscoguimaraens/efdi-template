@@ -14,4 +14,4 @@ hide:
 ¿Quieres construir tu desalinizador solar? Descarga y sigue los siguientes pasos 
 
  <a href="../Cómo_construir_mi_desalinizador_solar.pdf" download="Desalinizador Solar"> <strong>Descargar</strong> </a>
- ssss
+ 
