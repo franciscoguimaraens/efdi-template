@@ -79,7 +79,7 @@ Dentro de la caja esta instalada una boba de agua que tiene como funcion sacar e
 ![](../images/Proyecto/Producto%20fianl/arduino.PNG)
 
 
-Archivos .ino <a href="../proyecto/Archivos/Codigoproyectofinal.ino" download="Codigo_Arduino_Desalinizador"> <strong>Codigo Arduino</strong> </a>
+<a href="../proyecto/Archivos/Codigoproyectofinal.ino" download="Codigo_Arduino_Desalinizador"> <strong>Codigo Arduino</strong> </a>
 
 
 
