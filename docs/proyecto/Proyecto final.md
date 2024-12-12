@@ -40,12 +40,23 @@ Para mantener el Arduino y sus componentes juntos y fuera del alcance de los ray
 Esta está constituida por una caja y una tapa, la cual esta última está diseñada para contener una pantalla LCD y 3 luces led necesarias para mostrar información de los sensores.
 El soporte fue diseñado para sostener uno de los sensores dentro de la caja del desalinizador el cual debía de estar bien sujeto ya que iba a estar en contacto con el agua.  
 
-Foto caja estanca y soporte
+
+![](../images/Proyecto/Producto%20fianl/caja%20estanca%20dsieño.PNG)
+
 
 <strong>Cortes e impresion en 3D</strong>
 
 Para los cortes de las cajas utilice una cortadora laser la cual me permitió realizar cortes precisos, también realice un grabado con el nombre de "Desalinizador solar" y dos logos en la cara frontal de la caja exterior. Como parámetros para los cortes Utilice una potencia de 75% y una velocidad de 15mm/s, el grabado lo realice con una potencia de 10% y una velocidad de 300mm/s.
-La impresión en 3D la realice con una impresora RAISED Pro2 Plus con filamento blanco.
+La impresión en 3D la realice con una impresora RAISED Pro3 Plus con filamento blanco.
+
+
+
+![](../images/Proyecto/Producto%20fianl/cortes.PNG)
+
+![](../images/Proyecto/Producto%20fianl/piezas.PNG)
+
+![](../images/Proyecto/Producto%20fianl/caja.PNG)
+
 
 Archivos .dxf <a href="../proyecto/Archivos/Exterior.zip" download="Caja Exterior"> <strong>Caja exterior</strong> </a>
 
@@ -62,6 +73,46 @@ Para la automatización y programación del proceso y los sensores utilice Ardui
 Utilice un sensor de nivel de agua (bolla), una bomba de agua, un sensor de temperatura y un sensor de ultrasonido.
 El sensor de nivel de agua está ubicado dentro de la caja interior del desalinizador el cual mediante una boya envía una señal de la altura del agua dentro. Esta cuando envía una señal de bajo nivel al Arduino, enciende la bomba que está ubicada en el depósito de agua exterior. Cuando el sensor le indica al Arduino que el agua llego a su altura optima, este apaga la bomba para que no siga ingresando más agua.
 El sensor de temperatura nos indica a la temperatura que se encuentra el agua en el depósito del agua producida, ya que este al salir del desalinizador se encuentra a una temperatura muy elevada y puede ser peligrosa al intentar ingerirla. Este Resultado lo podemos ver impreso en la pantalla LCD ubicado en la caja estanca junto con la altura en centímetros del agua dentro del recipiente. Aparte de esto hay 3 luces LED (Roja, Amarilla y Azul) que nos indica de manera visual la cantidad de agua que tenemos producida, donde el color rojo nos indica una cantidad de agua baja, en amarillo cuando la cantidad de agua es media y en azul cuando tenemos una buena cantidad de agua producida lista para ser consumida.
+
+
+![](../images/Proyecto/Producto%20fianl/arduino.PNG)
+
+
+<strong>Pasos para el armado aramdo:</strong>
+
+1- Como primer paso luego de tener todos los cortes e impresiones ya echas junto con los materiales que necesitaba, comence armando la caja exterior (Figura 1), esta me permitia ensamblarla y debiado a los encastres con cuñas no tiene problemas de que se vuelva a desmontar.
+
+2- Al tener terminada esta, continue cortando la aislacion para montarla. La aislacion ayuda en el armado y rigidez de las cajas ya que al entrar a presion mantiene las cajas en su lugar sin tener movimientos (Figura 2).
+
+3- Para el armado de la caja interna me ayude con la aisalcion antes colocada ya que los encastres de esta caja son tal que no quedan fijas por si mismas, pero el aisalnte al estar sometiendo una presion hacia adentro hace que estas piezas se mantengan ensambladas y no se destruyan (Figura 3).
+
+4- Luego al estar ya todo fijo y en su lugar continue con la permeabilidad de la caja interna, para ello utilice un nylon plastico de 150 micrones. Los cortes los realice extendiendo el plastico sobre una mesa y dibujando la caja que queria formar. Despues de dibujar y cortar a la medida justa uni las cuatro esquinas para que tome la forma exacta de la caja interna, para ello utilice una maquina de vacio la cual tiene incorporada una selladora de nylon por calor (Figura 4).
+
+5- Como paso siguiente realice los cortes de los tubos que se necesitan para capturar las gotas de agua provenientes de la condensacion, a este tubo le realice dos corte de 50cm de largo y un corte de la mitad de su diametro. En su extremo le coloque un codo y un excedente de 10cm para mejorar el vertido del agua hacia un recipiente de acumulacion (figura 5).
+
+Al mismo tiempo le realice la colocacion de grava en la base de la caja, la cual primero la clasifique y lave muy bien con abundante agua para quitar la suciedad, restos vegetales y de otras impurezas.
+
+6- Al poder ya colocar la caja estanca y dimensionar donde iban a ir instalados los sensores, continue realizando la instalacion de los mismos y la instalacion del Arduino Uno. Este lo instale a un costado, precisamente en el lateral que da al punto cardinal Este ya que es el que recivira los rayos del sol mas tenues (Figura 6).
+
+7-
+
+
+![](../images/Proyecto/Producto%20fianl/piezas.PNG)
+<small>Figura 1</small> 
+
+![](../images/Proyecto/Producto%20fianl/aisalcion.PNG)
+<small>Figura 2</small>
+
+![](../images/Proyecto/Producto%20fianl/pasos.PNG)
+<small>Figura 3</small>
+
+![](../images/Proyecto/Producto%20fianl/nylon.PNG)
+<small>Figura 4</small>
+
+![](../images/Proyecto/Producto%20fianl/caño.PNG)
+<Small>Figura 5</small>
+
+
 
 Poner el programa de Arduino
 
