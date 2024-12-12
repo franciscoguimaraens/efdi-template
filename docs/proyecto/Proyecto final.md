@@ -134,4 +134,6 @@ Poner el programa de Arduino
 
  <a href="../Cómo_construir_mi_desalinizador_solar.pdf" download="Desalinizador Solar"> <strong>Descargar</strong> </a>
  
-<a href="./proyecto/Archivos/Caja_estanca.zip" download="Partes"> <strong>Descargar</strong> </a>
+Prueba <a href="../Archivos/Caja_estanca.zip" download="Partes"> <strong>Descargar</strong> </a>
+
+Prueba <a href="../Caja_estanca.zip" download="Partes"> <strong>Descargar</strong> </a>
