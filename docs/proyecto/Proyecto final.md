@@ -47,10 +47,13 @@ Foto caja estanca y soporte
 Para los cortes de las cajas utilice una cortadora laser la cual me permitió realizar cortes precisos, también realice un grabado con el nombre de "Desalinizador solar" y dos logos en la cara frontal de la caja exterior. Como parámetros para los cortes Utilice una potencia de 75% y una velocidad de 15mm/s, el grabado lo realice con una potencia de 10% y una velocidad de 300mm/s.
 La impresión en 3D la realice con una impresora RAISED Pro2 Plus con filamento blanco.
 
-Archivos .dxf <a href="Exterior.zip" download="Caja Exterior"> <strong>Caja exterior</strong> </a>
-Archivos .dxf <a href="Interior.zip" download="Caja Interior"> <strong>Caja interior</strong> </a>
-Archivos .stl <a href="Caja_estanca.zip" download="Caja_estanca"> <strong>Caja estanca</strong> </a>
-Archivos .stl <a href="Soporte.stl" download="Soporte"> <strong>Soporte sensor</strong> </a>
+Archivos .dxf <a href="../proyecto/Archivos/Exterior.zip" download="Caja Exterior"> <strong>Caja exterior</strong> </a>
+
+Archivos .dxf <a href="../proyecto/Archivos/Interior.zip" download="Caja Interior"> <strong>Caja interior</strong> </a>
+
+Archivos .stl <a href="../proyecto/Archivos/Caja_estanca.zip" download="Caja_estanca"> <strong>Caja estanca</strong> </a>
+
+Archivos .stl <a href="../proyecto/Archivos/Soporte.stl" download="Soporte"> <strong>Soporte sensor</strong> </a>
 
 
 <strong>Electrónica y Programación</strong>
