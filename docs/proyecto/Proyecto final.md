@@ -62,7 +62,7 @@ Archivos .dxf <a href="../proyecto/Archivos/Exterior.zip" download="Caja Exterio
 
 Archivos .dxf <a href="../proyecto/Archivos/Interior.zip" download="Caja Interior"> <strong>Caja interior</strong> </a>
 
-Archivos .stl <a href="../proyecto/Archivos/Caja_estanca.zip" download="Caja_estanca"> <strong>Caja estanca</strong> </a>
+Archivos .stl <a href="../tecnicos/Nuevacarpeta/Caja_estanca.zip" download="Caja_estanca"> <strong>Caja estanca</strong> </a>
 
 Archivos .stl <a href="../proyecto/Archivos/Soporte.stl" download="Soporte"> <strong>Soporte sensor</strong> </a>
 
