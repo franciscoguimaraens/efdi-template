@@ -58,14 +58,16 @@ La impresión en 3D la realice con una impresora RAISED Pro3 Plus con filamento 
 ![](../images/Proyecto/Producto%20fianl/caja.PNG)
 
 
-Archivos .dxf <a href="../proyecto/Archivos/Exterior.zip" download="Caja Exterior"> <strong>Caja exterior</strong> </a>
+Archivos .dxf <a href="../Archivos/Exterior.zip" download="Caja Exterior"> <strong>Caja exterior</strong> </a>
 
-Archivos .dxf <a href="../proyecto/Archivos/Interior.zip" download="Caja Interior"> <strong>Caja interior</strong> </a>
+Archivos .dxf <a href="../Archivos/Interior.zip" download="Caja Interior"> <strong>Caja interior</strong> </a>
 
-Archivos .stl <a href="../tecnicos/Nuevacarpeta/Caja_estanca.zip" download="Caja_estanca"> <strong>Caja estanca</strong> </a>
+Archivos .stl <a href="../Archivos/Caja_estanca.zip" download="Caja_estanca"> <strong>Caja estanca</strong> </a>
 
-Archivos .stl <a href="../proyecto/Archivos/Soporte.stl" download="Soporte"> <strong>Soporte sensor</strong> </a>
+Archivos .stl <a href="../Archivos/Soporte.stl" download="Soporte"> <strong>Soporte sensor</strong> </a>
 
+
+<a href="../Archivos/Caja_estanca.zip" download="Partes"> <strong>Descargar</strong> </a>
 
 <strong>Electrónica y Programación</strong>
 
@@ -79,7 +81,7 @@ Dentro de la caja esta instalada una boba de agua que tiene como funcion sacar e
 ![](../images/Proyecto/Producto%20fianl/arduino.PNG)
 
 
-<a href="../proyecto/Archivos/Codigoproyectofinal.ino" download="Codigo_Arduino_Desalinizador"> <strong>Codigo Arduino</strong> </a>
+Archivo .ino <a href="../Archivos/Codigoproyectofinal.ino" download="Codigo_Arduino_Desalinizador"> <strong>Codigo Arduino</strong> </a>
 
 
 
@@ -136,4 +138,3 @@ Poner el programa de Arduino
  
 Prueba <a href="../Archivos/Caja_estanca.zip" download="Partes"> <strong>Descargar</strong> </a>
 
-Prueba <a href="../Caja_estanca.zip" download="Partes"> <strong>Descargar</strong> </a>
