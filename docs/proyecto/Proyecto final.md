@@ -70,12 +70,17 @@ Archivos .stl <a href="../proyecto/Archivos/Soporte.stl" download="Soporte"> <st
 <strong>Electrónica y Programación</strong>
 
 Para la automatización y programación del proceso y los sensores utilice Arduino Uno.
-Utilice un sensor de nivel de agua (bolla), una bomba de agua, un sensor de temperatura y un sensor de ultrasonido.
+Utilice un sensor de nivel de agua (bolla), dos bomba de agua, un sensor de temperatura y un sensor de ultrasonido.
 El sensor de nivel de agua está ubicado dentro de la caja interior del desalinizador el cual mediante una boya envía una señal de la altura del agua dentro. Esta cuando envía una señal de bajo nivel al Arduino, enciende la bomba que está ubicada en el depósito de agua exterior. Cuando el sensor le indica al Arduino que el agua llego a su altura optima, este apaga la bomba para que no siga ingresando más agua.
 El sensor de temperatura nos indica a la temperatura que se encuentra el agua en el depósito del agua producida, ya que este al salir del desalinizador se encuentra a una temperatura muy elevada y puede ser peligrosa al intentar ingerirla. Este Resultado lo podemos ver impreso en la pantalla LCD ubicado en la caja estanca junto con la altura en centímetros del agua dentro del recipiente. Aparte de esto hay 3 luces LED (Roja, Amarilla y Azul) que nos indica de manera visual la cantidad de agua que tenemos producida, donde el color rojo nos indica una cantidad de agua baja, en amarillo cuando la cantidad de agua es media y en azul cuando tenemos una buena cantidad de agua producida lista para ser consumida.
+Dentro de la caja esta instalada una boba de agua que tiene como funcion sacar el agua del desalinizador para realizarle una limpieza, esta bomba es accionada por un interruptor que se encuentra fuera de la caja estanca.
 
 
 ![](../images/Proyecto/Producto%20fianl/arduino.PNG)
+
+
+Archivos .ino <a href="../proyecto/Archivos/Codigoproyectofinal.ino" download="Codigo_Arduino_Desalinizador"> <strong>Codigo Arduino</strong> </a>
+
 
 
 <strong>Pasos para el armado aramdo:</strong>
@@ -94,7 +99,8 @@ Al mismo tiempo le realice la colocacion de grava en la base de la caja, la cual
 
 6- Al poder ya colocar la caja estanca y dimensionar donde iban a ir instalados los sensores, continue realizando la instalacion de los mismos y la instalacion del Arduino Uno. Este lo instale a un costado, precisamente en el lateral que da al punto cardinal Este ya que es el que recivira los rayos del sol mas tenues (Figura 6).
 
-7-
+7- Por ultimo realice la instalacion de los sensores y los motores. El sensor de nivel que esta dentro del desalinizador esta sujeto mediante un soporte realizado en impresion en 3D, la boma de succion que realiza el bombeo del agua para el interior del desalinizador no esta sujeta a ninguna superficie para permitir ser instalada en el resipiente que se recolecte el agua con sal. El motor de evacuacion de agua en el interior del desalinizador esta sujeto al fondo de la mimsa para permitir la evacuacion de la totalidad del agua.
+Los sensores de temperatura y nivel de agua del recipiente exterior donde se encuentra el agua producida, estan sujetos al recipiente. 
 
 
 ![](../images/Proyecto/Producto%20fianl/piezas.PNG)
