@@ -7,8 +7,8 @@ hide:
 
 <strong>Desalinizador de agua con energía solar</strong>
 
-En el comienzo de la especialización como idea inicial tenía en mente realizar el proyecto orientado al residuo plástico creado por la agricultura ya que es de mi vida cotidiana. Lo veía como un problema existente que muchas veces los productores no saben qué hacer con él y resulta un desperdicio que muchas veces se termina quemando para que no se dispersen por las chacras con el viento.
-Al final con el transcurso de los Módulos cambie de opinión y mi idea inicial se fue modificando. 
+En el comienzo de la especialización como idea inicial tenía en mente realizar el proyecto orientado al residuo plástico creado por la agricultura, ya que es de mi vida cotidiana. Lo veía como un problema existente que muchas veces los productores no saben qué hacer con él y resulta un desperdicio que muchas veces se termina quemando para que no se dispersen por las chacras con el viento.
+Al final, con el transcurso de los Módulos cambie de opinión y mi idea inicial se fue modificando. 
 
 Las ideas iniciales de realizar un desalinizador solar como proyecto comenzaron con el Módulo MI01 (innovación y sostenibilidad).
 En el transcurso de este módulo tuvimos que analizar diversos proyectos en los cuales a mí y un grupo de compañeros nos tocó un proyecto de desalinización de agua con energía solar. 
