@@ -15,12 +15,10 @@ La idea al definir sus dimensiones fue que sea algo de poco tamaño pero eficien
 La inclinación de la lámina transparente superior es de 13 grados, esto favorece más que nada la captación de radiación provenientes del sol en los periodos de verano de nuestro país, donde el sol toma sus puntos más altos. También esta inclinación es de suma importancia para que las gotas de agua condensadas puedan caer hasta el tubo recolector.
 
 
-![](../images/Proyecto/Ideas%20iniciales/sol.PNG)
+![](../images/Proyecto/Ideas%20iniciales/ideas%20iniciales.PNG)
 
-<small>Ángulo Solar</small>
-![](../images/Proyecto/Ideas%20iniciales/WhatsApp%20Image%202024-11-25%20at%2010.57.24%20AM.jpeg)
+<small>Ángulo Solar y bosquejo inicial</small>
 
-<small>Bosquejo inicial</small>
 
 <strong>Construcción del prototipo:</strong>
 
