@@ -3,13 +3,12 @@ hide:
     - toc
 ---
 
-# Proyecto
-
+# Proyecto Final
 
 
 Al concluir las pruebas e investigaciones anteriores y llegar a un resultado aceptable, donde el prototipo cumple y satisface las distintas expectativas, principalmente la capacidad para producir un volumen de agua apta para el consumo humano, continue realizando un prototipo final. Las características y medidas de este son idénticas al prototipo anterior, pero este contiene mecanismos electrónicos y automatización. También este fue diseñado y creado con máquinas de precisión como lo son las cortadoras laser e impresoras 3D.
 
-Construcción:
+<strong>Construcción:</strong>
 
 El prototipo final está constituido de dos cajas de maderas de MDF de 3mm, donde la caja interna y externa están separadas en sus laterales y base por 4cm de aislante térmico (Espuma plast). La parte superior está construida por dos vidrios, la cual permite el paso de la radiación solar y el aislamiento térmico con el exterior. 
 La caja interna en su interior esta pintada de negro y esta recubierta con un nylon plástico para evitar las fugas de agua. En el interior de esta contiene 2cm de grava negra la que ayuda a la conservación de la energía.
