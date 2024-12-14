@@ -104,32 +104,25 @@ Al mismo tiempo le realice la colocación de grava en la base de la caja, la cua
 7- Por último, realice la instalación de los sensores y los motores. El sensor de nivel que está dentro del desalinizador está sujeto mediante un soporte realizado en impresión en 3D, la bomba de succión que realiza el bombeo del agua para el interior del desalinizador no está sujeta a ninguna superficie para permitir ser instalada en el recipiente que se recolecte el agua con salada. El motor de evacuación de agua en el interior del desalinizador, está sujeto al fondo de la misma para permitir la evacuación de la totalidad del agua.
 Los sensores de temperatura y nivel de agua del recipiente exterior donde se encuentra el agua producida, están sujetos al mismo recipiente. (Figura 7)
 
-![](../images/Proyecto/Producto%20fianl/piezas.PNG)
-
+![](../images/Proyecto/Producto%20fianl/piezas.PNG)                               
 <small>Figura 1</small> 
 
-![](../images/Proyecto/Producto%20fianl/aisalcion.PNG)
-
+![](../images/Proyecto/Producto%20fianl/aisalcion.PNG)                            
 <small>Figura 2</small>
 
-![](../images/Proyecto/Producto%20fianl/pasos.PNG)
-
+![](../images/Proyecto/Producto%20fianl/pasos.PNG)                            
 <small>Figura 3</small>
 
-![](../images/Proyecto/Producto%20fianl/nylon.PNG)
-
+![](../images/Proyecto/Producto%20fianl/nylon.PNG)                             
 <small>Figura 4</small>
 
-![](../images/Proyecto/Producto%20fianl/caño.PNG)
-
+![](../images/Proyecto/Producto%20fianl/caño.PNG)                                     
 <Small>Figura 5</small>
 
-![](../images/Proyecto/Producto%20fianl/estanca.PNG)
-
+![](../images/Proyecto/Producto%20fianl/estancaaa.PNG)                                                                  
 <small>Figura 6</small>
 
-![](../images/Proyecto/Producto%20fianl/sensores.PNG)
-
+![](../images/Proyecto/Producto%20fianl/sensores.PNG)                              
 <small>Figura 7</small>
 
 
