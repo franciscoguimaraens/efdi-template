@@ -115,6 +115,32 @@ Los sensores de temperatura y nivel de agua del recipiente exterior donde se enc
 <small>Figura 7</small>
 
 
+<strong>Pruebas de la electronica y programacion:</strong>
+
+Al finalizar el armado de la estructura e instalacion de los sensores y bombas, realice una preuba de funcionamiento de los mismos donde se puede ver a continuacion:
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Q7bQzj2HQQ?si=ceeeP51VTp-qrKKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+Aca se puede ver todos los sensores, bombas y actuadores en funcionamiento.
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Va2UhfEKFEo?si=OEqA5u3-34agbX12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+En el siguiente video se puede ver que al aumentar la cantidad de agua las luces LED nos indican segun el color la cantidad de agua disponible producida. Tambien podemos notar en la pantalla, la temperatura del agua que se encuentra en el recipiente y la distancia disponible que tenemos para seguir produciendo.
+
+
+Nota: Los videos son de manera explicativa de como funciona la electronica y sus componentes, ya que me seria imposible mostrarlos en tiempo real porque el proceso completo demoraria un dia. 
+
+
+<strong>Pruebas reales:</strong>
+
+
+
+
 
 ¿Quieres construir tu desalinizador solar? Descarga y sigue los siguientes pasos 
 
