@@ -144,6 +144,7 @@ Nota: Los videos son de manera explicativa de como funciona la electronica y sus
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XvksK_BSsjk?si=Ml36NdPwTFpBR7k_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+![](../images/Proyecto/Producto%20fianl/desalinizador%20terminado.PNG)
 
 
 ¿Quieres construir tu desalinizador solar? <a href="../Cómo_construir_mi_desalinizador_solar.pdf" download="Desalinizador Solar"> <strong>Descarga</strong> </a> y sigue los siguientes pasos 
