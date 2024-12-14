@@ -77,8 +77,11 @@ El sensor de temperatura y las luces LED, están instaladas en el circuito cada 
 <em>Sensores y actuadores utilizados:</em>
 
 Bomba de agua sumergible 3v-5v
+
 Sensor de temperatura DS18B20
+
 Sensor de nivel ZP4510
+
 Sensor Ultrasonico Hc-sr04
 
 
@@ -103,6 +106,8 @@ Al mismo tiempo le realice la colocación de grava en la base de la caja, la cua
 
 7- Por último, realice la instalación de los sensores y los motores. El sensor de nivel que está dentro del desalinizador está sujeto mediante un soporte realizado en impresión en 3D, la bomba de succión que realiza el bombeo del agua para el interior del desalinizador no está sujeta a ninguna superficie para permitir ser instalada en el recipiente que se recolecte el agua con salada. El motor de evacuación de agua en el interior del desalinizador, está sujeto al fondo de la misma para permitir la evacuación de la totalidad del agua.
 Los sensores de temperatura y nivel de agua del recipiente exterior donde se encuentra el agua producida, están sujetos al mismo recipiente. (Figura 7)
+
+8- Luego de haber hecho todas las pruebas realice la colocacion del vidrio superior.
 
 ![](../images/Proyecto/Producto%20fianl/piezas.PNG)                               
 <small>Figura 1</small> 
