@@ -97,21 +97,31 @@ Al mismo tiempo le realice la colocación de grava en la base de la caja, la cua
 Los sensores de temperatura y nivel de agua del recipiente exterior donde se encuentra el agua producida, están sujetos al mismo recipiente. (Figura 7)
 
 ![](../images/Proyecto/Producto%20fianl/piezas.PNG)
+
 <small>Figura 1</small> 
 
 ![](../images/Proyecto/Producto%20fianl/aisalcion.PNG)
+
 <small>Figura 2</small>
 
 ![](../images/Proyecto/Producto%20fianl/pasos.PNG)
+
 <small>Figura 3</small>
 
 ![](../images/Proyecto/Producto%20fianl/nylon.PNG)
+
 <small>Figura 4</small>
 
 ![](../images/Proyecto/Producto%20fianl/caño.PNG)
+
 <Small>Figura 5</small>
 
-![](../images/Proyecto/Producto%20fianl/sensor.PNG)
+![](../images/Proyecto/Producto%20fianl/estanca.PNG)
+
+<small>Figura 6</small>
+
+![](../images/Proyecto/Producto%20fianl/sensores.PNG)
+
 <small>Figura 7</small>
 
 
