@@ -132,12 +132,16 @@ Aca se puede ver todos los sensores, bombas y actuadores en funcionamiento.
 
 En el siguiente video se puede ver que al aumentar la cantidad de agua las luces LED nos indican segun el color la cantidad de agua disponible producida. Tambien podemos notar en la pantalla, la temperatura del agua que se encuentra en el recipiente y la distancia disponible que tenemos para seguir produciendo.
 
+![](../images/Proyecto/Producto%20fianl/led.PNG)
+LED roja nivel de agua producida baja, LED naranja nivel de agua producida media, LED azul buena disponibilidad de agua producida.
 
 Nota: Los videos son de manera explicativa de como funciona la electronica y sus componentes, ya que me seria imposible mostrarlos en tiempo real porque el proceso completo demoraria un dia. 
 
 
 <strong>Pruebas reales:</strong>
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XvksK_BSsjk?si=Ml36NdPwTFpBR7k_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
