@@ -127,7 +127,7 @@ Los sensores de temperatura y de nivel de agua del recipiente exterior donde se 
 ![](../images/Proyecto/Producto%20fianl/sensores.PNG)                              
 <small>Figura 7</small>
 
-<strong>Pruebas de la electronica y programacion:</strong>
+<strong>Pruebas de la electrónica y programación:</strong>
 
 Al finalizar el armado de la estructura e instalación de los sensores y bombas, realice una prueba de funcionamiento de los mismos donde se puede ver a continuación:
 
