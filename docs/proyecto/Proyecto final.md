@@ -74,6 +74,14 @@ El sensor de temperatura y las luces LED, están instaladas en el circuito cada 
 ![](../images/Proyecto/Producto%20fianl/subir.PNG)
 <small>Diagrama unifilar del circuito</small>
 
+<em>Sensores y actuadores utilizados:</em>
+
+Bomba de agua sumergible 3v-5v
+Sensor de temperatura DS18B20
+Sensor de nivel ZP4510
+Sensor Ultrasonico Hc-sr04
+
+
 Archivo .ino <a href="../Archivos/Codigoproyectofinal.ino" download="Codigo_Arduino_Desalinizador"> <strong>Codigo Arduino</strong> </a>
 
 
@@ -143,6 +151,7 @@ Aca se puede ver todos los sensores, bombas y actuadores en funcionamiento.
 En el siguiente video se puede ver que al aumentar la cantidad de agua las luces LED nos indican segun el color la cantidad de agua disponible producida. Tambien podemos notar en la pantalla, la temperatura del agua que se encuentra en el recipiente y la distancia disponible que tenemos para seguir produciendo.
 
 ![](../images/Proyecto/Producto%20fianl/led.PNG)
+
 LED roja nivel de agua producida baja, LED naranja nivel de agua producida media, LED azul buena disponibilidad de agua producida.
 
 Nota: Los videos son de manera explicativa de como funciona la electronica y sus componentes, ya que me seria imposible mostrarlos en tiempo real porque el proceso completo demoraria un dia. 
