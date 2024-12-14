@@ -5,7 +5,6 @@ hide:
 
 # Proyecto Final
 
-
 Al concluir las pruebas e investigaciones anteriores y llegar a un resultado aceptable, donde el prototipo cumple y satisface las distintas expectativas, principalmente la capacidad para producir un volumen de agua apta para el consumo humano, continue realizando un prototipo final. Las características y medidas de este son idénticas al prototipo anterior, pero este contiene mecanismos electrónicos y automatización. También este fue diseñado y creado con máquinas de precisión como lo son las cortadoras laser e impresoras 3D.
 
 <strong>Construcción:</strong>
@@ -41,7 +40,6 @@ El soporte fue diseñado para sostener uno de los sensores dentro de la caja del
 ![](../images/Proyecto/Producto%20fianl/caja%20estanca%20dsieño.PNG)
 ![](../images/Proyecto/Producto%20fianl/soportes.PNG)
 
-
 <strong>Cortes e impresión en 3D</strong>
 
 Para los cortes de las cajas utilice una cortadora laser la cual me permitió realizar cortes precisos, también realice un grabado con el nombre de "Desalinizador solar" y dos logos en la cara frontal de la caja exterior. Como parámetros para los cortes Utilice una potencia de 75% y una velocidad de 15mm/s, el grabado lo realice con una potencia de 10% y una velocidad de 300mm/s.
@@ -61,13 +59,12 @@ Archivos .stl <a href="../Archivos/Caja_estanca.zip" download="Caja_estanca"> <s
 
 Archivos .stl <a href="../Archivos/Soporte.stl" download="Soporte"> <strong>Soporte sensor</strong> </a>
 
-
 <strong>Electrónica y Programación</strong>
 
 Para la automatización y programación del proceso y los sensores utilice Arduino Uno.
 Utilice un sensor de nivel de agua (bolla), dos bombas de agua, un sensor de temperatura, un sensor de ultrasonido y un pulsador.
 El sensor de nivel de agua está ubicado dentro de la caja interior del desalinizador, el cual mediante una boya envía una señal de la altura del agua dentro. Cuando envía una señal de bajo nivel al Arduino, enciende la bomba que está ubicada en el depósito de agua exterior, para así aumentar el nivel de agua en el interior de la caja del desalinizador y que siempre se mantenga con una cantidad de agua apropiada. Cuando el sensor le indica al Arduino que el agua llego a su altura optima, este apaga la bomba para que no siga ingresando.
-El sensor de temperatura, nos indica a la temperatura que se encuentra el agua en el depósito del agua producida, ya que este al salir del desalinizador se encuentra a una temperatura muy elevada y puede ser peligrosa al intentar ingerirla. Este Resultado lo podemos ver impreso en la pantalla LCD, ubicado en la caja estanca junto con la dsitancia en centimetros del faltante para llenar nuestro recipiente. Aparte de esto hay 3 luces LED (Roja, Amarilla y Azul) que nos indica de manera visual la cantidad de agua que tenemos producida, donde el color rojo nos indica una cantidad de agua baja, en amarillo cuando la cantidad de agua es media y en azul cuando tenemos una buena cantidad de agua producida lista para ser consumida.
+El sensor de temperatura, nos indica a la temperatura que se encuentra el agua en el depósito del agua producida, ya que este al salir del desalinizador se encuentra a una temperatura muy elevada y puede ser peligrosa al intentar ingerirla. Este Resultado lo podemos ver impreso en la pantalla LCD, ubicado en la caja estanca junto con la distancia en centímetros del faltante para llenar nuestro recipiente. Aparte de esto hay 3 luces LED (Roja, Amarilla y Azul) que nos indica de manera visual la cantidad de agua que tenemos producida, donde el color rojo nos indica una cantidad de agua baja, en amarillo cuando la cantidad de agua es media y en azul cuando tenemos una buena cantidad de agua producida lista para ser consumida.
 Dentro de la caja interna del desalinizador, está instalada una bomba de agua que tiene como función sacar el agua del desalinizador para realizar una limpieza cuando se desee. Esta bomba es accionada por un pulsador manual que se encuentra fuera de la caja estanca.
 El sensor de temperatura y las luces LED, están instaladas en el circuito cada una con una resistencia, donde el sensor de temperatura tiene una resistencia de 1000 ohm y las luces LED tienen en su pin positivo una resistencia de 220 ohm, cada una conectadas en serie. 
 
@@ -84,11 +81,9 @@ Sensor de temperatura DS18B20
 
 Sensor de nivel ZP4510
 
-Sensor Ultrasonico Hc-sr04
-
+Sensor Ultrasónico Hc-sr04
 
 Archivo .ino <a href="../Archivos/Codigoproyectofinal.ino" download="Codigo_Arduino_Desalinizador"> <strong>Codigo Arduino</strong> </a>
-
 
 <strong>Pasos del armado:</strong>
 
@@ -96,7 +91,7 @@ Archivo .ino <a href="../Archivos/Codigoproyectofinal.ino" download="Codigo_Ardu
 
 2- Al tener terminada esta, continue cortando la aislación para montarla. La aislación ayuda en el armado y rigidez de las cajas ya que al entrar a presión mantiene las cajas en su lugar sin tener movimientos. (Figura 2).
 
-3- Para el armado de la caja interna me ayude con la aislación antes colocada ya que los encastres de esta caja son tal que no quedan fijas por sí mismas, pero el aislante al estar sometiendo una presión hacia adentro hace que estas piezas se mantengan ensambladas y no se desencastre. (Figura 3).
+3- Para el armado de la caja interna me ayude con la aislación antes colocada ya que los encastres de esta caja son tal que no quedan fijas por sí mismas, pero el aislante al estar sometiendo una presión hacia adentro hace que estas piezas se mantengan ensambladas y no se des encastre. (Figura 3).
 
 4- Luego al estar ya todo fijo y en su lugar, continue con la permeabilidad de la caja interna, para ello utilice un nylon plástico de 150 micrones. Los cortes los realice extendiendo el plástico sobre una mesa y dibujando la caja que quería formar. Después de dibujar y cortar a la medida justa, uní las cuatro esquinas para que tome la forma exacta de la caja interna, para ello utilice una máquina de vacío la cual tiene incorporada una selladora por calor. (Figura 4).
 
@@ -109,7 +104,7 @@ Al mismo tiempo le realice la colocación de grava en la base de la caja, la cua
 7- Por último, realice la instalación de los sensores y los motores. El sensor de nivel que está dentro del desalinizador está sujeto mediante un soporte realizado en impresión en 3D, la bomba de succión que realiza el bombeo del agua para el interior del desalinizador no está sujeta a ninguna superficie, esto para permitir ser instalada en el recipiente que se recolecte el agua sin tratar. El motor de evacuación de agua en el interior del desalinizador, está sujeto al fondo de la misma para permitir la evacuación de la totalidad del agua.
 Los sensores de temperatura y de nivel de agua del recipiente exterior donde se encuentra el agua producida, están sujetos al mismo recipiente. (Figura 7)
 
-8- Luego de haber hecho todas las pruebas realice la colocacion de los vidrios superiores, que son los encargados de condensar y producir las gotas de agua.
+8- Luego de haber hecho todas las pruebas realice la colocación de los vidrios superiores, que son los encargados de condensar y producir las gotas de agua.
 
 ![](../images/Proyecto/Producto%20fianl/piezas.PNG)                               
 <small>Figura 1</small> 
@@ -132,49 +127,42 @@ Los sensores de temperatura y de nivel de agua del recipiente exterior donde se 
 ![](../images/Proyecto/Producto%20fianl/sensores.PNG)                              
 <small>Figura 7</small>
 
-
 <strong>Pruebas de la electronica y programacion:</strong>
 
-Al finalizar el armado de la estructura e instalacion de los sensores y bombas, realice una preuba de funcionamiento de los mismos donde se puede ver a continuacion:
-
+Al finalizar el armado de la estructura e instalación de los sensores y bombas, realice una prueba de funcionamiento de los mismos donde se puede ver a continuación:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Q7bQzj2HQQ?si=ceeeP51VTp-qrKKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-Aca se puede ver todos los sensores, bombas y actuadores en funcionamiento.
-
+Acá se puede ver todos los sensores, bombas y actuadores en funcionamiento.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Va2UhfEKFEo?si=OEqA5u3-34agbX12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-En el siguiente video se puede ver que al aumentar la cantidad de agua las luces LED nos indican segun el color la cantidad de agua disponible producida. Tambien podemos notar en la pantalla, la temperatura del agua que se encuentra en el recipiente y la distancia disponible que tenemos para seguir produciendo.
+En el siguiente video se puede ver que al aumentar la cantidad de agua las luces LED nos indican según el color la cantidad de agua disponible producida. También podemos notar en la pantalla, la temperatura del agua que se encuentra en el recipiente y la distancia disponible que tenemos para seguir produciendo.
 
 ![](../images/Proyecto/Producto%20fianl/led.PNG)
 
 <small>LED roja nivel de agua producida baja, LED naranja nivel de agua producida media, LED azul buena disponibilidad de agua producida.</small>
 
-Nota: Los videos son de manera explicativa de como funciona la electronica y sus componentes, ya que me seria imposible mostrarlos en tiempo real porque el proceso completo demora un dia. 
-
+Nota: Los videos son de manera explicativa de cómo funciona la electrónica y sus componentes, ya que me sería imposible mostrarlos en tiempo real porque el proceso completo demora un día. 
 
 <strong>Pruebas reales:</strong>
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XvksK_BSsjk?si=Ml36NdPwTFpBR7k_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mdy_zclQtdo?si=vgZGjt5eulFFr1v5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<strong>Conclusión:</strong>
 
-
+Con este tipo de desalinizador se debería de escalar 6 veces el tamaño para alcanzar la producción necesaria para mantener a una persona promedio en un día. Este tipo de tecnología es de fácil construcción y con costos económicos muy bajos, ya que se lo puede construir reciclando materiales y con herramientas muy básicas. 
+El proceso por el que pasa el agua para purificarse y potabilizarse es efectivo y no produce contaminantes en ningunos de sus procesos, ya que este es similar al proceso que se da de forma natural en nuestro planeta. 
 
 ![](../images/Proyecto/Producto%20fianl/desalinizador%20terminado.PNG)
-
-
-
-
 
 ¿Quieres construir tu desalinizador solar? <a href="../Cómo_construir_mi_desalinizador_solar.pdf" download="Desalinizador Solar"> <strong>Descarga</strong> </a> y sigue los siguientes pasos 
 
  
+
  
 
 
