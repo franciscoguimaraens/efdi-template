@@ -146,9 +146,9 @@ Nota: Los videos son de manera explicativa de como funciona la electronica y sus
 
 
 
-¿Quieres construir tu desalinizador solar? Descarga y sigue los siguientes pasos 
+¿Quieres construir tu desalinizador solar? <a href="../Cómo_construir_mi_desalinizador_solar.pdf" download="Desalinizador Solar"> <strong>Descarga</strong> </a> y sigue los siguientes pasos 
 
- <a href="../Cómo_construir_mi_desalinizador_solar.pdf" download="Desalinizador Solar"> <strong>Descargar</strong> </a>
+ 
  
 
 
