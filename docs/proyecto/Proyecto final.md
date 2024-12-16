@@ -167,7 +167,7 @@ El proceso por el que pasa el agua para purificarse y potabilizarse es efectivo 
 
 A continuación se describen en una tabla todos los materiales utilizados para la construcción
 
-![](../images/Proyecto/Producto%20fianl/Tabla%20de%20articulos.PNG)
+![](../images/Proyecto/Producto%20fianl/Tabla%20mejorada.PNG)
 
 
 
