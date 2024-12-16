@@ -65,6 +65,7 @@ La inercia térmica es la capacidad de un material para resistir y absorber los 
 En términos simples, un material con alta inercia térmica se calienta y enfría lentamente, mientras que un material con baja inercia térmica responde rápidamente a los cambios de temperatura.
 Esto les pasa a materiales como piedras, ladrillos, concreto, etc. Los cuales por tener una densidad alta y también una capacidad calorífica estos absorben y liberan calor de forma gradual y lenta lo que ayuda a regular la temperatura interna de algunos sistemas.
 
+
 <strong>Bibliografía:</Strong>
 
 https://concepto.de/ciclo-del-agua/

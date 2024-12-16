@@ -88,7 +88,7 @@ Al ir examinando las fotos térmicas vistas anterior mente y los resultados que 
 
 ![](../images/Proyecto/Primer%20prototipo/Una%20aislacion/prueba%204.PNG)
 
-<small>Aislación térmica</smll>
+<small>Aislación térmica</small>
 
 ![](../images/Proyecto/Primer%20prototipo/Una%20aislacion/prueba%20termica.PNG)
 
@@ -125,7 +125,7 @@ Luego de hacer estas mejoras continue con las pruebas y experimentos para ver la
 Al mirar estos datos pude notar que para días totalmente soleados de Primavera-Verano con temperaturas que rondaban los 30°C pude obtener un aumento de temperatura en el interior del desalinizador que llegaban a 85°C, lo cual favorece un montón en cuanto a la cantidad de agua destilada obtenida.
 
 
-<strong><Mark>Pruebas de agua<Mark></strong>
+<strong><Mark>Pruebas de agua</Mark></strong>
 
 También para validar el proceso y el producto, realice pruebas de agua con respecto a la cantidad de sal contenida antes y después de pasar por este tipo de procesamiento.
 Utilice un instrumento el cual me permitía la medición de varios parámetros, de los cuales tome la conductividad, salinidad y temperatura del agua.
@@ -133,7 +133,7 @@ Estos tres parámetros están relacionados entre sí ya que al aumentar la tempe
 
 ![](../images/Proyecto/Primer%20prototipo/Salinizacion/salinizador.PNG)
 
-<small>Instrumento para medir salinidad, conductividad y temperatura<small>
+<small>Instrumento para medir salinidad, conductividad y temperatura</small>
 
 Para realizar las pruebas tome muestras de agua provenientes de diferentes lugares, la primera prueba que realice fue sacando agua de la red potable localizada en mi localidad y pasada por un filtro purificador. 
 La siguiente prueba fue tomando agua de la misma red, pero sin pasar por este purificador.
