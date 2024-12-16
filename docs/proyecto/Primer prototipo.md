@@ -74,7 +74,7 @@ Primeros datos:
 
 ![](../images/Proyecto/Graficas/Primeras_Modificaciones.png)
 
-<small>Gráfica de radiación y temperaturas</smll>
+<small>Gráfica de radiación y temperaturas</small>
 
 
 En las gráfica podemos apreciar 4 días de pruebas, donde en la gráfica superior se puede observar la radiación solar que llega a nuestro desalinizador (Radiacion Global en plano inclinado) y en las de abajo las diferentes temperaturas obtenidas para ese día.
