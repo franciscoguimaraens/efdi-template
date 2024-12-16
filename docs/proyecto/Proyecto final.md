@@ -83,6 +83,8 @@ Sensor de nivel ZP4510
 
 Sensor Ultrasónico Hc-sr04
 
+Pantalla LCD 1602
+
 Archivo .ino <a href="../Archivos/Codigoproyectofinal.ino" download="Codigo_Arduino_Desalinizador"> <strong>Codigo Arduino</strong> </a>
 
 <strong>Pasos del armado:</strong>
@@ -160,6 +162,14 @@ Con este tipo de desalinizador se debería de escalar 6 veces el tamaño para al
 El proceso por el que pasa el agua para purificarse y potabilizarse es efectivo y no produce contaminantes en ningunos de sus procesos, ya que este es similar al proceso que se da de forma natural en nuestro planeta. 
 
 ![](../images/Proyecto/Producto%20fianl/desalinizador%20terminado.PNG)
+
+<strong>Materiales</strong>
+
+A continuación se describen en una tabla todos los materiales utilizados para la construcción
+
+![](../images/Proyecto/Producto%20fianl/Tabla%20de%20articulos.PNG)
+
+
 
 ¿Quieres construir tu desalinizador solar? <a href="../Cómo construir mi desalinizador solar final vertical acomodado.pdf" download="Desalinizador Solar"> <strong>Descarga</strong> </a> y sigue los siguientes pasos 
 
