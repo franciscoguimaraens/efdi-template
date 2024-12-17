@@ -7,12 +7,11 @@ hide:
 
 <strong><Mark>Construcción y pruebas del prototipo</Mark></strong> 
 
-Para la realización de este proyecto construí un prototipo que me ayudo a entender el funcionamiento y al mismo tiempo poder mejorarlo.
+Para la realización de este proyecto construí un prototipo que me ayudó a entender su funcionamiento y, al mismo tiempo, me permitió mejorarlo.
 
-El prototipo comenzó con un primer diseño a mano en una hoja. En este primer diseño definí las características
-principales que debería de tener como sus dimensiones y su inclinación.
-La idea al definir sus dimensiones fue que sea algo de poco tamaño pero eficiente para que pueda caber en lugares reducidos.
-La inclinación de la lámina transparente superior es de 13 grados, esto favorece más que nada la captación de radiación provenientes del sol en los periodos de verano de nuestro país, donde el sol toma sus puntos más altos. También esta inclinación es de suma importancia para que las gotas de agua condensadas puedan caer hasta el tubo recolector.
+El prototipo comenzó con un primer diseño a mano en una hoja. En este primer diseño definí las características principales que debería tener, como sus dimensiones y su inclinación. La idea al definir sus dimensiones fue crear algo de tamaño reducido pero eficiente, para que pudiera caber en lugares pequeños.
+
+La inclinación de la lámina transparente superior es de 13 grados, lo que favorece principalmente la captación de radiación solar durante el verano en nuestro país, cuando el sol alcanza sus puntos más altos. Además, esta inclinación es fundamental para que las gotas de agua condensadas puedan deslizarse hasta el tubo recolector.
 
 
 ![](../images/Proyecto/Ideas%20iniciales/ideas%20iniciales.PNG)
@@ -21,23 +20,18 @@ La inclinación de la lámina transparente superior es de 13 grados, esto favore
 
 <strong>Objetivos:</strong>
 
-El objetivo de realizar un prototipo inicial e ir probando diferentes configuraciones, aislaciones y demás, es alcanzar el mayor rendimiento posible del desalinizador, esto conlleva a reducir las pérdidas de calor, aumentar la temperatura interior y por consecuencia una mayor producción de agua potabilizada.
-El objetivo era llegar a una temperatura cercana a los 80°C dentro del desalinizador, y obtener una cantidad de agua potabilizada por día cercana a un vaso promedio de 300ml.
+El objetivo de realizar un prototipo inicial e ir probando diferentes configuraciones, aislaciones y demás, es alcanzar el mayor rendimiento posible del desalinizador. Esto conlleva reducir las pérdidas de calor, aumentar la temperatura interior y, como resultado, obtener una mayor producción de agua potabilizada.
 
+Se buscaba alcanzar una temperatura cercana a los 80°C dentro del desalinizador y obtener una cantidad de agua potabilizada por día cercana a un vaso promedio de 300 ml.
 
 <strong>Construcción del prototipo:</strong>
 
-El prototipo lo construí con materiales que fui reciclado de diversas construcciones.
-Como primeros pasos recolecte todos los materiales que iba a necesitar para la construcción.
-El acumulador cuenta con una caja de madera, un vidrio, un nylon que recubre la parte interior para evitar las fugas de agua, un ducto que permite capturar las gotas que se deslizan por el vidrio y llevarlas al exterior para poder juntarlas y un orificio con otro ducto de menor diámetro en uno de sus laterales para poder verter agua salada.
-
+El prototipo lo creé utilizando materiales reciclados de varias construcciones. Para empezar, recolecté todo lo necesario para la construcción. El acumulador está compuesto por una caja de madera, un vidrio y un revestimiento interior de nylon para evitar las fugas de agua. Además, incluye un ducto que recoge las gotas que caen del vidrio y las dirige hacia el exterior para poder recolectarlas. También tiene un pequeño orificio con otro ducto más estrecho en uno de sus laterales, que sirve para verter agua salada.
 
 <em>Pasos para la creación:</em>
 
-Para la creación del prototipo utilice herramientas manuales. 
-Comencé con el corte de la madera para hacer la caja donde estaría acumulada el agua que sería evaporada. Realice los corte con una cierra circular eléctrica y lo ensamble con clavos y grampas.
-Para la realización de los agujeros de entrada y salida del agua utilice un taladro con una broca, el vidrio lo sujete a la caja de madera con silicona, lo que me permitió sellarlo para que no se contamine el agua del interior con objetos o agua de lluvia. También para que no hubieran perdidas de vapor por la elevación de la temperatura.
 
+Para la creación del prototipo, utilicé herramientas manuales. Empecé cortando la madera para hacer la caja que almacenaría el agua salada para ser evaporada. Realicé los cortes con una sierra circular eléctrica y ensamblé las piezas con clavos y grampas. Para hacer los agujeros de entrada y salida del agua, utilicé un taladro con broca. El vidrio lo fijé a la caja de madera con silicona, lo que me permitió sellarlo y evitar que el agua se contamine con objetos o lluvia. También sirvió para prevenir pérdidas de vapor debido a la temperatura elevada
 
 ![](../images/Proyecto/Primer%20prototipo/Captura.PNG)
 ![](../images/Proyecto/Primer%20prototipo/Cortes%20y%20primer%20armado/3.PNG)
