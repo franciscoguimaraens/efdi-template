@@ -37,6 +37,10 @@ Para la realización de los agujeros de entrada y salida del agua utilice un tal
 
 <small>Corte y ensamble</small>
 
+
+![](../images/Proyecto/Primer%20prototipo/Captura.PNG)
+
+
 -Prueba 1:
 
 Luego del armado continue a revestirlo con nylon en su interior para que no tuviera fugas de agua. Realizado este paso proseguí a verificar que no existiera ninguna fuga, al ver que estaba bien retome con los siguientes pasos para su funcionamiento.
