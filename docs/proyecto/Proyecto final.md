@@ -174,7 +174,10 @@ El proceso por el que pasa el agua para purificarse y potabilizarse es efectivo 
 
 ![](../images/Proyecto/Producto%20fianl/desalinizador%20terminado.PNG)
 
-<strong>Materiales</strong>
+
+¿Quieres construir tu desalinizador solar? <a href="../Cómo construir mi desalinizador solar final vertical acomodado.pdf" download="Desalinizador Solar"> <strong>Descarga</strong> </a> y sigue los siguientes pasos 
+
+<strong>Materiales:</strong>
 
 A continuación se describen en una tabla todos los materiales utilizados para la construcción
 
@@ -186,7 +189,7 @@ A continuación se describen en una tabla todos los materiales utilizados para l
 
 
 
-¿Quieres construir tu desalinizador solar? <a href="../Cómo construir mi desalinizador solar final vertical acomodado.pdf" download="Desalinizador Solar"> <strong>Descarga</strong> </a> y sigue los siguientes pasos 
+
 
  
 
