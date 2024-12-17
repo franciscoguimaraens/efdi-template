@@ -92,7 +92,8 @@ Al mirar las gráficas podemos ver que en dias de Primavera-Verano donde la caja
 
 Al ir examinando las fotos térmicas vistas anterior mente y los resultados que se obtuvieron, opte por aislar el acumulador térmicamente. Utilice espuma plast de 2 cm de espesor y membrana refractante para mitigar las perdidas.
 
-![](../images/Proyecto/Primer%20prototipo/Una%20aislacion/prueba%204.PNG)
+![](../images/Proyecto/Primer%20prototipo/Una%20aislacion/11.PNG)
+![](../images/Proyecto/Primer%20prototipo/Una%20aislacion/22.PNG)
 
 <small>Aislación térmica</small>
 
