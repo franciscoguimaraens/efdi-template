@@ -18,6 +18,8 @@ A mí personalmente me llamo mucho la atención y me parecía algo irreal que pa
 De ahí también me puse a reflexionar la cantidad de personas que no tienen acceso al agua potable siendo que gran parte de nuestro planeta está conformado de agua.
 Otra de las razones por la cual decidi realizar un desalinizador solar es porque gran parte del agua de nuestro planeta es salada no potable y una de las energías más abundantes y con un costo económico cero es la energía solar. 
 
+![](../images/Proyecto/Falta%20de%20agua/falta%20de%20agua.PNG)
+
 # Marco teórico
 
 <strong>Ciclo del Agua:</strong>
@@ -29,6 +31,9 @@ Este es un proceso vital para el mantenimiento y la estabilidad del planeta e in
 El proceso tal cual no tiene un punto determinado de inicio, sino que se trata de una continuidad de procesos en los que interviene el clima, el viento y la energía solar.
 El ciclo hidrológico contribuye de forma natural a la purificación del agua, eliminando impurezas, reduciendo la salinidad y asegurando su disponibilidad. Este proceso ocurre gracias a diversas etapas del ciclo, que filtran, separan y transforman el agua, haciéndola apta para los ecosistemas y, en muchos casos, para el consumo humano.
 
+![](../images/Proyecto/Ciclo%20del%20agua/Ciclodelagua.png)
+<small>Foto ilustrativa del ciclo del agua</small>
+
 El agua cubre el 71% de la superficie terrestre. Sin embargo, el 96,5% están en los mares y océanos como agua salada, el 2,5% es agua dulce. Un 68.7% del agua dulce está atrapada en casquetes polares y glaciares, el 30,1% está en manantiales subterráneos y menos del 1% está en ríos y arroyos.
 Esto quiere decir que del 71% de agua en nuestro planeta. Un porcentaje muy bajo es agua potable y apto para el consumo humano, sin mencionar la contaminación que se está generando en el transcurso de los años.
 
@@ -37,8 +42,8 @@ El agua de mar se vierte dentro del recipiente construido, en el cual va absorbi
 Este vapor al estar en contacto con una superficie de menor temperatura se condensa provocando que se formen gotas de agua, las cuales por medio de la pendiente existente en esa pared se van deslizando hasta llegar a un tubo recolector.
 El ciclo no se completa exactamente como se produce en nuestro planeta, ya que el agua resultante de este no vuelve a entrar al proceso.
 
-![](../images/Proyecto/Ciclo%20del%20agua/Ciclodelagua.png)
-<small>Foto ilustrativa del ciclo del agua</small>
+![](../images/Proyecto/Ideas%20iniciales/flujo%20de%20aire.PNG)
+<small>Foto ilustrativa del ciclo dentro del desalinizador</small>
 
 <strong>Transferencia de calor por los materiales:</strong>
 
