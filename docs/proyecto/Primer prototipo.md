@@ -19,6 +19,11 @@ La inclinación de la lámina transparente superior es de 13 grados, esto favore
 
 <small>Ángulo Solar y bosquejo inicial</small>
 
+<strong>Objetivos:</strong>
+
+El objetivo de realizar un prototipo inicial e ir probando diferentes configuraciones, aislaciones y demás, es alcanzar el mayor rendimiento posible del desalinizador, esto conlleva a reducir las pérdidas de calor, aumentar la temperatura interior y por consecuencia una mayor producción de agua potabilizada.
+El objetivo era llegar a una temperatura cercana a los 80°C dentro del desalinizador, y obtener una cantidad de agua potabilizada por día cercana a un vaso promedio de 300ml.
+
 
 <strong>Construcción del prototipo:</strong>
 
@@ -159,6 +164,10 @@ Al concluir estas pruebas realicé la medición de cuanta cantidad de agua desal
 
 Con este proceso y estas características se debería de escalar 6 veces este acumulador, lo que equivale a 1.5m2 para obtener la cantidad de 2lts de agua necesaria para abastecer a una persona en un día.  
 
+<strong>Conclusion:</strong>
+
+Al terminar de realizar todas las mejoras y llegar a los resultados finales, concluí que pude obtener lo fijado como objetivo y superarlo ya que alcancé el promedio estimado. 
+El agua producida es 100% potable y sin sales, este producto se lo podría utilizar fácilmente como un artículo para producir agua potable en zonas costeras a mares y océanos.
 
 
 <strong>Anexo:</strong>
