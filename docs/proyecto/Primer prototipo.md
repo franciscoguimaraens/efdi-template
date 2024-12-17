@@ -53,7 +53,8 @@ Al ponerlo en el sol por varias horas vi que este no lograba condensar más que 
 Al ver las conclusiones antes mencionadas lo mejore pintando la parte interior de la caja con pintura en aerosol de color negro para que favoreciera la acumulación de energía y así aumentar la temperatura. También para evitar las pérdidas de calor dadas en el cuerpo transparente ubicado en la parte superior, opte por ponerle un doble vidrio. Esto para que existiera entre ambos vidrios un aislante térmico.
 En esta reformación también opté por poner una placa reflectiva en su base interior la que en el transcurso de los días me di cuenta que esto empeoraba el rendimiento y no me favorecía en el aumento de la temperatura interna.
 
-![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/prueba%202.PNG)
+![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/Captura.PNG)
+![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/Captura2.PNG)
 
 <small>Colocación de doble vidrio</small> 
 
@@ -70,7 +71,8 @@ La estación de medida consiste de un sensor para la medida de Radiación Solar 
 Todos estos datos eran recogidos por un adquisidor de datos (Dattalogger) el cual tomaba datos cada 10 segundos y realizaba el promedio minutal. Con esto podía graficar y ver los datos en tiempo real, lo cual me favorecía un montón para ver los avances en las mejoras.
 Nota: Cabe mencionar que la inclinación del sensor PAR estaba en la misma inclinación del vidrio, y tanto la estación como el colector estaban orientados al norte solar.
 
-![](../images/Proyecto/Primer%20prototipo/Data%20Logger%20y%20sensores/prueba%203.PNG)
+![](../images/Proyecto/Primer%20prototipo/Data%20Logger%20y%20sensores/nueva.PNG)
+![](../images/Proyecto/Primer%20prototipo/Data%20Logger%20y%20sensores/2.PNG)
 
 <small>Adquisidor de datos y sensores de temperatura</small>
 
