@@ -96,7 +96,7 @@ Archivo .ino <a href="../Archivos/Codigoproyectofinal.ino" download="Codigo_Ardu
 
 2- Al tener terminada esta, continue cortando la aislación para montarla. La aislación ayuda en el armado y rigidez de las cajas ya que al entrar a presión mantiene las cajas en su lugar sin tener movimientos. (Figura 2).
 
-![](../images/Proyecto/Producto%20fianl/2.PNG.PNG)                            
+![](../images/Proyecto/Producto%20fianl/2.PNG)                            
 <small>Figura 2</small>
 
 
@@ -128,7 +128,7 @@ Al mismo tiempo le realice la colocación de grava en la base de la caja, la cua
 7- Por último, realice la instalación de los sensores y los motores. El sensor de nivel que está dentro del desalinizador está sujeto mediante un soporte realizado en impresión en 3D, la bomba de succión que realiza el bombeo del agua para el interior del desalinizador no está sujeta a ninguna superficie, esto para permitir ser instalada en el recipiente que se recolecte el agua sin tratar. El motor de evacuación de agua en el interior del desalinizador, está sujeto al fondo de la misma para permitir la evacuación de la totalidad del agua.
 Los sensores de temperatura y de nivel de agua del recipiente exterior donde se encuentra el agua producida, están sujetos al mismo recipiente. (Figura 7)
 
-![](../images/Proyecto/Producto%20fianl/sensores.PNG)                              
+![](../images/Proyecto/Producto%20fianl/6.PNG)                              
 <small>Figura 7</small>
 
 8- Luego de haber hecho todas las pruebas realice la colocación de los vidrios superiores, que son los encargados de condensar y producir las gotas de agua.
