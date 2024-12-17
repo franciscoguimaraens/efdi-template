@@ -68,7 +68,7 @@ El sensor de temperatura, nos indica a la temperatura que se encuentra el agua e
 Dentro de la caja interna del desalinizador, está instalada una bomba de agua que tiene como función sacar el agua del desalinizador para realizar una limpieza cuando se desee. Esta bomba es accionada por un pulsador manual que se encuentra fuera de la caja estanca.
 El sensor de temperatura y las luces LED, están instaladas en el circuito cada una con una resistencia, donde el sensor de temperatura tiene una resistencia de 1000 ohm y las luces LED tienen en su pin positivo una resistencia de 220 ohm, cada una conectadas en serie. 
 
-![](../images/Proyecto/Producto%20fianl/arduino.PNG)
+![](../images/Proyecto/Producto%20fianl/arduinooo.PNG)
 
 ![](../images/Proyecto/Producto%20fianl/subir.PNG)
 <small>Diagrama unifilar del circuito</small>
