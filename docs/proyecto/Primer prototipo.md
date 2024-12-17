@@ -33,12 +33,12 @@ Para la creación del prototipo utilice herramientas manuales.
 Comencé con el corte de la madera para hacer la caja donde estaría acumulada el agua que sería evaporada. Realice los corte con una cierra circular eléctrica y lo ensamble con clavos y grampas.
 Para la realización de los agujeros de entrada y salida del agua utilice un taladro con una broca, el vidrio lo sujete a la caja de madera con silicona, lo que me permitió sellarlo para que no se contamine el agua del interior con objetos o agua de lluvia. También para que no hubieran perdidas de vapor por la elevación de la temperatura.
 
-![](../images/Proyecto/Primer%20prototipo/Cortes%20y%20primer%20armado/foto%20cracion.PNG)
-
-<small>Corte y ensamble</small>
-
 
 ![](../images/Proyecto/Primer%20prototipo/Captura.PNG)
+![](../images/Proyecto/Primer%20prototipo/Cortes%20y%20primer%20armado/3.PNG)
+![](../images/Proyecto/Primer%20prototipo/Cortes%20y%20primer%20armado/2.PNG)
+
+<small>Corte y ensamble</small>
 
 
 -Prueba 1:
