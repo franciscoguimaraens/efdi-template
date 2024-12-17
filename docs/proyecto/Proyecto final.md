@@ -91,43 +91,48 @@ Archivo .ino <a href="../Archivos/Codigoproyectofinal.ino" download="Codigo_Ardu
 
 1- Como primer paso luego de tener todos los cortes e impresiones ya echas junto con los materiales que necesitaba, comencé armando la caja exterior (Figura 1), esta me permitía ensamblarla, y debido a los encastres con cuñas no tenía problemas de que se vuelva a desmontar.
 
+![](../images/Proyecto/Producto%20fianl/1.PNG)                               
+<small>Figura 1</small> 
+
 2- Al tener terminada esta, continue cortando la aislación para montarla. La aislación ayuda en el armado y rigidez de las cajas ya que al entrar a presión mantiene las cajas en su lugar sin tener movimientos. (Figura 2).
+
+![](../images/Proyecto/Producto%20fianl/aisalcion.PNG)                            
+<small>Figura 2</small>
+
 
 3- Para el armado de la caja interna me ayude con la aislación antes colocada ya que los encastres de esta caja son tal que no quedan fijas por sí mismas, pero el aislante al estar sometiendo una presión hacia adentro hace que estas piezas se mantengan ensambladas y no se des encastre. (Figura 3).
 
+![](../images/Proyecto/Producto%20fianl/pasos.PNG)                            
+<small>Figura 3</small>
+
+
 4- Luego al estar ya todo fijo y en su lugar, continue con la permeabilidad de la caja interna, para ello utilice un nylon plástico de 150 micrones. Los cortes los realice extendiendo el plástico sobre una mesa y dibujando la caja que quería formar. Después de dibujar y cortar a la medida justa, uní las cuatro esquinas para que tome la forma exacta de la caja interna, para ello utilice una máquina de vacío la cual tiene incorporada una selladora por calor. (Figura 4).
+
+![](../images/Proyecto/Producto%20fianl/nylon.PNG)                             
+<small>Figura 4</small>
 
 5- Como paso siguiente realice los cortes de los tubos que se necesitan para capturar las gotas de agua provenientes de la condensación, a este tubo le realice dos cortes de 50cm de largo y un corte de la mitad de su diámetro. En su extremo le coloque un codo y un excedente de 10cm para mejorar el vertido del agua hacia un recipiente de acumulación. (figura 5).
 
 Al mismo tiempo le realice la colocación de grava en la base de la caja, la cual primero la clasifique y lave muy bien con abundante agua para quitar la suciedad, restos vegetales y otras impurezas.
 
-6- Al poder ya colocar la caja estanca y dimensionar donde iban a ir instalados los sensores, continue realizando la instalación del Arduino Uno. Este lo instale a un costado, precisamente en el lateral que da al punto cardinal Este, ya que es el que recibirá los rayos de sol más tenues. (Figura 6).
-
-7- Por último, realice la instalación de los sensores y los motores. El sensor de nivel que está dentro del desalinizador está sujeto mediante un soporte realizado en impresión en 3D, la bomba de succión que realiza el bombeo del agua para el interior del desalinizador no está sujeta a ninguna superficie, esto para permitir ser instalada en el recipiente que se recolecte el agua sin tratar. El motor de evacuación de agua en el interior del desalinizador, está sujeto al fondo de la misma para permitir la evacuación de la totalidad del agua.
-Los sensores de temperatura y de nivel de agua del recipiente exterior donde se encuentra el agua producida, están sujetos al mismo recipiente. (Figura 7)
-
-8- Luego de haber hecho todas las pruebas realice la colocación de los vidrios superiores, que son los encargados de condensar y producir las gotas de agua.
-
-![](../images/Proyecto/Producto%20fianl/piezas.PNG)                               
-<small>Figura 1</small> 
-
-![](../images/Proyecto/Producto%20fianl/aisalcion.PNG)                            
-<small>Figura 2</small>
-
-![](../images/Proyecto/Producto%20fianl/pasos.PNG)                            
-<small>Figura 3</small>
-
-![](../images/Proyecto/Producto%20fianl/nylon.PNG)                             
-<small>Figura 4</small>
 
 ![](../images/Proyecto/Producto%20fianl/caño.PNG)                                     
 <Small>Figura 5</small>
 
+6- Al poder ya colocar la caja estanca y dimensionar donde iban a ir instalados los sensores, continue realizando la instalación del Arduino Uno. Este lo instale a un costado, precisamente en el lateral que da al punto cardinal Este, ya que es el que recibirá los rayos de sol más tenues. (Figura 6).
+
 ![](../images/Proyecto/Producto%20fianl/estancaaa.PNG)                                                                  
 <small>Figura 6</small>
 
+7- Por último, realice la instalación de los sensores y los motores. El sensor de nivel que está dentro del desalinizador está sujeto mediante un soporte realizado en impresión en 3D, la bomba de succión que realiza el bombeo del agua para el interior del desalinizador no está sujeta a ninguna superficie, esto para permitir ser instalada en el recipiente que se recolecte el agua sin tratar. El motor de evacuación de agua en el interior del desalinizador, está sujeto al fondo de la misma para permitir la evacuación de la totalidad del agua.
+Los sensores de temperatura y de nivel de agua del recipiente exterior donde se encuentra el agua producida, están sujetos al mismo recipiente. (Figura 7)
+
 ![](../images/Proyecto/Producto%20fianl/sensores.PNG)                              
 <small>Figura 7</small>
+
+8- Luego de haber hecho todas las pruebas realice la colocación de los vidrios superiores, que son los encargados de condensar y producir las gotas de agua.
+
+
 
 <strong>Pruebas de la electrónica y programación:</strong>
 
