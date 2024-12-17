@@ -96,13 +96,14 @@ Archivo .ino <a href="../Archivos/Codigoproyectofinal.ino" download="Codigo_Ardu
 
 2- Al tener terminada esta, continue cortando la aislación para montarla. La aislación ayuda en el armado y rigidez de las cajas ya que al entrar a presión mantiene las cajas en su lugar sin tener movimientos. (Figura 2).
 
-![](../images/Proyecto/Producto%20fianl/aisalcion.PNG)                            
+![](../images/Proyecto/Producto%20fianl/2.PNG.PNG)                            
 <small>Figura 2</small>
 
 
 3- Para el armado de la caja interna me ayude con la aislación antes colocada ya que los encastres de esta caja son tal que no quedan fijas por sí mismas, pero el aislante al estar sometiendo una presión hacia adentro hace que estas piezas se mantengan ensambladas y no se des encastre. (Figura 3).
 
-![](../images/Proyecto/Producto%20fianl/pasos.PNG)                            
+![](../images/Proyecto/Producto%20fianl/3.PNG)     
+![](../images/Proyecto/Producto%20fianl/33.PNG)                           
 <small>Figura 3</small>
 
 
@@ -116,7 +117,7 @@ Archivo .ino <a href="../Archivos/Codigoproyectofinal.ino" download="Codigo_Ardu
 Al mismo tiempo le realice la colocación de grava en la base de la caja, la cual primero la clasifique y lave muy bien con abundante agua para quitar la suciedad, restos vegetales y otras impurezas.
 
 
-![](../images/Proyecto/Producto%20fianl/caño.PNG)                                     
+![](../images/Proyecto/Producto%20fianl/5.PNG)                                     
 <Small>Figura 5</small>
 
 6- Al poder ya colocar la caja estanca y dimensionar donde iban a ir instalados los sensores, continue realizando la instalación del Arduino Uno. Este lo instale a un costado, precisamente en el lateral que da al punto cardinal Este, ya que es el que recibirá los rayos de sol más tenues. (Figura 6).
