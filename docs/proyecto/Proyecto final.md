@@ -146,6 +146,10 @@ Acá se puede ver todos los sensores, bombas y actuadores en funcionamiento.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Va2UhfEKFEo?si=OEqA5u3-34agbX12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qpV1dIpEi4E?si=oXOIm3BFJl1JWp0n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<small>Breve explicación del funcionamiento</strong>
+
 En el siguiente video se puede ver que al aumentar la cantidad de agua las luces LED nos indican según el color la cantidad de agua disponible producida. También podemos notar en la pantalla, la temperatura del agua que se encuentra en el recipiente y la distancia disponible que tenemos para seguir produciendo.
 
 ![](../images/Proyecto/Producto%20fianl/led.PNG)
@@ -162,6 +166,7 @@ Nota: Los videos son de manera explicativa de cómo funciona la electrónica y s
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mdy_zclQtdo?si=vgZGjt5eulFFr1v5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 <strong>Conclusión:</strong>
 
 Con este tipo de desalinizador se debería de escalar 6 veces el tamaño para alcanzar la producción necesaria para mantener a una persona promedio en un día. Este tipo de tecnología es de fácil construcción y con costos económicos muy bajos, ya que se lo puede construir reciclando materiales y con herramientas muy básicas. 
@@ -174,6 +179,10 @@ El proceso por el que pasa el agua para purificarse y potabilizarse es efectivo 
 A continuación se describen en una tabla todos los materiales utilizados para la construcción
 
 ![](../images/Proyecto/Producto%20fianl/Tabla%20mejorada.PNG)
+
+<strong>Presentación final:</strong>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6zU0oFUnbQU?si=eJEwkstHZmcDL-Y6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
