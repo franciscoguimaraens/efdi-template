@@ -11,7 +11,7 @@ Fue durante el Módulo MI01 (Innovación y Sostenibilidad) cuando empezó a toma
 
 Ese problema me impactó mucho. Me resultaba increíble que algo así estuviera pasando, más aún cuando vivimos en un territorio que cuenta con uno de los acuíferos más grandes del mundo y tantos ríos caudalosos. Esto me llevó a reflexionar sobre las personas que no tienen acceso al agua potable, a pesar de que nuestro planeta está cubierto en su mayor parte por agua.
 
-Otra razón por la que decidí hacer un desalinizador solar es que gran parte del agua de la Tierra es salada y no potable, pero al mismo tiempo, contamos con una fuente de energía que es abundante, gratuita y no contamina: el sol. Esta combinación me pareció una excelente oportunidad para crear un proyecto sencillo, sostenible y accesible, que pueda ayudar a resolver este problema tan importante y mundial.
+Otra razón por la que decidí hacer un desalinizador solar es que gran parte del agua del planeta es salada y no potable, pero al mismo tiempo, contamos con una fuente de energía que es abundante, gratuita y no contamina: el sol. Esta combinación me pareció una excelente oportunidad para crear un proyecto sencillo, sostenible y accesible, que pueda ayudar a resolver este problema tan importante y mundial.
 
 ![](../images/Proyecto/Falta%20de%20agua/falta%20de%20agua.PNG)
 
