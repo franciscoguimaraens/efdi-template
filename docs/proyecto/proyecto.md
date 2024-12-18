@@ -7,11 +7,11 @@ hide:
 
 Cuando empecé la especialización, mi primera idea fue trabajar en un proyecto relacionado con los residuos plásticos que se generan en la agricultura. Es algo que veo en mi día a día y me parece un problema importante. Muchos productores no saben qué hacer con esos plásticos, y muchas veces terminan quemándolos para que el viento no los disperse por las chacras. Pero con el tiempo y a medida que fui avanzando en los módulos, mi idea inicial fue cambiando.
 
-Fue durante el Módulo MI01 (Innovación y Sostenibilidad) cuando empezó a tomar forma mi interés por crear un desalinizador solar. En ese módulo, con mi grupo analizamos un proyecto que consistía en desalinizar agua usando energía solar. Esa idea me quedó dando vueltas en la cabeza, sobre todo porque me hizo recordar la situación que vivimos en el país el verano pasado. Hubo una sequía muy fuerte que afectó a gran parte del territorio, y la fuente principal de agua dulce de la capital estuvo a punto de agotarse. Como solución de emergencia, mezclaron agua dulce con agua de mar y la enviaron por la red de agua potable.
+Fue durante el Módulo MI01 (Innovación y Sostenibilidad) cuando empezó a tomar forma mi interés por crear un desalinizador solar. En ese módulo, con un grupo de compañeros analizamos un proyecto que consistía en desalinizar agua usando energía solar. Esa idea me quedó dando vueltas en la cabeza, sobre todo porque me hizo recordar la situación que vivimos en el país el verano pasado. Hubo una sequía muy fuerte que afectó a gran parte del territorio, y la fuente principal de agua dulce de la capital estuvo a punto de agotarse. Como solución de emergencia, mezclaron agua dulce con agua de mar y la enviaron por la red de agua potable.
 
 Ese problema me impactó mucho. Me resultaba increíble que algo así estuviera pasando, más aún cuando vivimos en un territorio que cuenta con uno de los acuíferos más grandes del mundo y tantos ríos caudalosos. Esto me llevó a reflexionar sobre las personas que no tienen acceso al agua potable, a pesar de que nuestro planeta está cubierto en su mayor parte por agua.
 
-Otra razón por la que decidí hacer un desalinizador solar es que gran parte del agua de la Tierra es salada y no potable, pero al mismo tiempo, contamos con una fuente de energía que es abundante, gratuita y no contamina: el sol. Esta combinación me pareció una excelente oportunidad para crear un proyecto sencillo, sostenible y accesible, que pueda ayudar a resolver este problema tan importante.
+Otra razón por la que decidí hacer un desalinizador solar es que gran parte del agua de la Tierra es salada y no potable, pero al mismo tiempo, contamos con una fuente de energía que es abundante, gratuita y no contamina: el sol. Esta combinación me pareció una excelente oportunidad para crear un proyecto sencillo, sostenible y accesible, que pueda ayudar a resolver este problema tan importante y mundial.
 
 ![](../images/Proyecto/Falta%20de%20agua/falta%20de%20agua.PNG)
 
@@ -34,9 +34,9 @@ El agua cubre el 71% de la superficie de la Tierra. Sin embargo, el 96,5% de esa
 
 Esto significa que, aunque el agua cubre gran parte de nuestro planeta, solo una pequeña porción es potable y apta para el consumo humano. Además, la contaminación del agua ha ido aumentando con el paso de los años, lo que agrava aún más el problema.
 
-En el proyecto de purificación y desalinización del agua, se buscó imitar el ciclo del agua. El proceso funciona de la siguiente manera: el agua de mar se vierte en un recipiente construido especialmente para este fin. Dentro del recipiente, el agua absorbe la energía solar y, al aumentar la temperatura, se evapora. El vapor sube y, debido al efecto de la convección, choca contra la pared superior de la caja.
+En el proyecto de purificación y desalinización del agua, se buscó imitar el ciclo del agua. El proceso funciona de la siguiente manera: el agua de mar se vierte en un recipiente construido especialmente para este fin. Dentro del recipiente, el agua absorbe la energía solar y, al aumentar la temperatura, se evapora. El vapor sube y, debido al efecto de la convección, choca contra la pared superior de la caja a menor temperatura.
 
-Al entrar en contacto con una superficie de menor temperatura, el vapor se condensa y se forman gotas de agua. Estas gotas se deslizan por una pendiente en la pared hasta llegar a un tubo recolector.
+Al entrar en contacto con una superficie de menor temperatura, el vapor se condensa y se forman gotas de agua. Estas gotas se deslizan por la pared superior hasta llegar a un tubo recolector.
 
 Aunque este proceso se asemeja al ciclo del agua natural, no se completa de la misma manera, ya que el agua resultante no vuelve a entrar al sistema.
 
@@ -45,7 +45,7 @@ Aunque este proceso se asemeja al ciclo del agua natural, no se completa de la m
 
 <strong>Transferencia de calor por los materiales:</strong>
 
-Las distintas paredes nos separan del exterior, generando en su interior un microclima diferente. Esto se refleja, entre otras cosas, en una diferencia de temperaturas entre el interior y el exterior. Tanto en los cerramientos opacos como en los transparentes, se produce un intercambio de calor de un medio a otro. Debido a esta diferencia de temperaturas, el calor se pierde con facilidad a través de los cerramientos transparentes. Este fenómeno se intensifica cuando el sol se oculta y la temperatura exterior baja.
+Las distintas paredes nos separan del exterior, generando en su interior un microclima diferente. Esto se refleja, entre otras cosas, en una diferencia de temperaturas entre el interior y el exterior. Tanto en los cerramientos opacos como en los transparentes, se produce un intercambio de calor de un medio a otro. Debido a esta diferencia de temperaturas, el calor se pierde con más facilidad a través de los cerramientos transparentes. Este fenómeno se intensifica cuando el sol se oculta y la temperatura exterior baja.
 
 <em>Vidrio:</em>
 
@@ -56,10 +56,6 @@ Cuando tenemos un cerramiento transparente con una sola lámina de vidrio y la t
 Los materiales de color negro absorben casi toda la radiación que reciben y no la reflejan. Esto hace que aumente la temperatura de su superficie, ya que la energía absorbida se convierte en calor.
 
 En el caso de la radiación solar, las superficies oscuras absorben una mayor cantidad de energía y, por lo tanto, se calientan más que las superficies de colores claros, las cuales reflejan gran parte de la radiación solar y se mantienen más frías.
-
-
-Experimento realizado con dos placas de diferentes colores.
-
 
 
 ![](../images/Proyecto/Placa/placaspaint.PNG)

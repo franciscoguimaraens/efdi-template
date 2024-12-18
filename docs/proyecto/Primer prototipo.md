@@ -9,7 +9,7 @@ hide:
 
 Para la realización de este proyecto construí un prototipo que me ayudó a entender su funcionamiento y, al mismo tiempo, me permitió mejorarlo.
 
-El prototipo comenzó con un primer diseño a mano en una hoja. En este primer diseño definí las características principales que debería tener, como sus dimensiones y su inclinación. La idea al definir sus dimensiones fue crear algo de tamaño reducido pero eficiente, para que pudiera caber en lugares pequeños.
+El prototipo comenzó con un primer diseño a mano en una hoja. En este primer diseño definí las características principales que debería tener, como sus dimensiones y su inclinación. La idea al definir sus dimensiones fue crear algo de poco tamaño pero eficiente, para que pudiera ser ubicado en lugares pequeños.
 
 La inclinación de la lámina transparente superior es de 13 grados, lo que favorece principalmente la captación de radiación solar durante el verano en nuestro país, cuando el sol alcanza sus puntos más altos. Además, esta inclinación es fundamental para que las gotas de agua condensadas puedan deslizarse hasta el tubo recolector.
 
@@ -22,16 +22,16 @@ La inclinación de la lámina transparente superior es de 13 grados, lo que favo
 
 El objetivo de realizar un prototipo inicial e ir probando diferentes configuraciones, aislaciones y demás, es alcanzar el mayor rendimiento posible del desalinizador. Esto conlleva reducir las pérdidas de calor, aumentar la temperatura interior y, como resultado, obtener una mayor producción de agua potabilizada.
 
-Se buscaba alcanzar una temperatura cercana a los 80°C dentro del desalinizador y obtener una cantidad de agua potabilizada por día cercana a un vaso promedio de 300 ml.
+Se buscaba alcanzar la mayor temperatura posible dentro del desalinizador y obtener una cantidad de agua potabilizada por día cercana a un vaso promedio de 300 ml.
 
 <strong>Construcción del prototipo:</strong>
 
-El prototipo lo creé utilizando materiales reciclados de varias construcciones. Para empezar, recolecté todo lo necesario para la construcción. El acumulador está compuesto por una caja de madera, un vidrio y un revestimiento interior de nylon para evitar las fugas de agua. Además, incluye un ducto que recoge las gotas que caen del vidrio y las dirige hacia el exterior para poder recolectarlas. También tiene un pequeño orificio con otro ducto más estrecho en uno de sus laterales, que sirve para verter agua salada.
+El prototipo lo creé utilizando materiales reciclados de varias construcciones. Para empezar, recolecté todo lo necesario para la construcción. El acumulador está compuesto por una caja de madera, un vidrio y un revestimiento interior de nylon para evitar las fugas de agua. Además, incluye un tubo que recoge las gotas que caen del vidrio y las dirige hacia el exterior para poder recolectarlas. También tiene un orificio con otro tubo de menor diámetro en uno de sus laterales, que sirve para verter agua salada.
 
 <em>Pasos para la creación:</em>
 
 
-Para la creación del prototipo, utilicé herramientas manuales. Empecé cortando la madera para hacer la caja que almacenaría el agua salada para ser evaporada. Realicé los cortes con una sierra circular eléctrica y ensamblé las piezas con clavos y grampas. Para hacer los agujeros de entrada y salida del agua, utilicé un taladro con broca. El vidrio lo fijé a la caja de madera con silicona, lo que me permitió sellarlo y evitar que el agua se contamine con objetos o lluvia. También sirvió para prevenir pérdidas de vapor debido a la temperatura elevada
+Para la creación del prototipo, utilicé herramientas manuales. Empecé cortando la madera para hacer la caja que almacenaría el agua salada para ser evaporada. Realicé los cortes con una sierra circular eléctrica y ensamblé las piezas con clavos y grampas. Para hacer los agujeros de entrada y salida del agua, utilicé un taladro con broca. El vidrio lo fijé a la caja de madera con silicona, lo que me permitió sellarlo y evitar que el agua se contamine con objetos o lluvia. También para prevenir pérdidas de vapor debido a la temperatura elevada.
 
 ![](../images/Proyecto/Primer%20prototipo/Captura.PNG)
 ![](../images/Proyecto/Primer%20prototipo/Cortes%20y%20primer%20armado/3.PNG)
@@ -49,8 +49,9 @@ Al ponerlo en el sol por varias horas vi que este no lograba condensar más que 
 
 -Prueba 2:
 
-Al ver las conclusiones antes mencionadas lo mejore pintando la parte interior de la caja con pintura en aerosol de color negro para que favoreciera la acumulación de energía y así aumentar la temperatura. También para evitar las pérdidas de calor dadas en el cuerpo transparente ubicado en la parte superior, opte por ponerle un doble vidrio. Esto para que existiera entre ambos vidrios un aislante térmico.
-En esta reformación también opté por poner una placa reflectiva en su base interior la que en el transcurso de los días me di cuenta que esto empeoraba el rendimiento y no me favorecía en el aumento de la temperatura interna.
+Tras revisar las conclusiones anteriores, decidí realizar algunas mejoras. Pinté la parte interior de la caja con pintura en aerosol de color negro para favorecer la acumulación de energía solar y aumentar así la temperatura interna. Además, para reducir las pérdidas de calor en la zona del cuerpo transparente ubicado en la parte superior, opté por instalar un doble vidrio. Esto permitió crear una capa de aislante térmico entre ambos vidrios, ayudando a mantener el calor dentro.
+
+Sin embargo, también añadí una placa reflectiva en la base interior, con la intención de mejorar la eficiencia. Con el tiempo, me di cuenta de que esta modificación no tuvo los efectos esperados y, de hecho, empeoró el rendimiento, ya que no favoreció el aumento de la temperatura interna.
 
 ![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/Captura.PNG)
 ![](../images/Proyecto/Primer%20prototipo/Dos%20vidrios/Captura2.PNG)
@@ -65,10 +66,11 @@ En esta reformación también opté por poner una placa reflectiva en su base in
 
 
 
-Al ir realizando todos estos cambios no sabía que mejoras me beneficiaban y cuáles no, lo cual para ello instale una estación de medida para que me ayudara a obtener datos necesarios para la toma de decisiones en las futuras mejoras.
-La estación de medida consiste de un sensor para la medida de Radiación Solar (PAR) y tres sensores de medidas de temperaturas (PT1000).
-Todos estos datos eran recogidos por un adquisidor de datos (Dattalogger) el cual tomaba datos cada 10 segundos y realizaba el promedio minutal. Con esto podía graficar y ver los datos en tiempo real, lo cual me favorecía un montón para ver los avances en las mejoras.
-Nota: Cabe mencionar que la inclinación del sensor PAR estaba en la misma inclinación del vidrio, y tanto la estación como el colector estaban orientados al norte solar.
+Mientras realizaba todos estos cambios, no sabía cuáles mejoras realmente me beneficiaban y cuáles no. Para poder obtener datos más precisos y tomar decisiones informadas sobre futuras mejoras, decidí instalar una estación de medición. Esta estación me permitió recopilar datos clave para evaluar el desempeño del sistema.
+
+La estación de medición consiste en un sensor para medir la Radiación Solar (PAR) y tres sensores de temperatura (PT1000). Todos estos datos eran recogidos por un registrador de datos (Datalogger), que tomaba lecturas cada 10 segundos y calculaba el promedio por minuto. Esto me permitió graficar y visualizar los datos en tiempo real, lo que fue muy útil para monitorear los avances de las mejoras implementadas.
+
+Cabe mencionar que el sensor PAR estaba instalado con la misma inclinación que el vidrio, y tanto la estación de medición como el colector estaban orientados hacia el norte solar para garantizar la precisión de las mediciones.
 
 ![](../images/Proyecto/Primer%20prototipo/Data%20Logger%20y%20sensores/nueva.PNG)
 ![](../images/Proyecto/Primer%20prototipo/Data%20Logger%20y%20sensores/2.PNG)

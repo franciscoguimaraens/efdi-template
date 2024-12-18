@@ -32,7 +32,7 @@ Aquí se muestra el diseño de la caja exterior, que consta de una base y sus ca
 
 <em>Caja estanca y soporte:</em>
 
-Para proteger el Arduino y sus componentes de la exposición directa a los rayos del sol, diseñé una caja estanca, la cual fue fabricada utilizando una impresora 3D. Esta caja consta de una estructura con una tapa, que está diseñada para fijar una pantalla LCD y tres luces LED, esenciales para mostrar la información de los sensores. Además, se diseñó un soporte específico para mantener uno de los sensores dentro de la caja del desalinizador, asegurando que estuviera bien sujeto, ya que estará en contacto con el agua durante el funcionamiento del prototipo.
+Para proteger el Arduino y sus componentes de la exposición directa a los rayos del sol, diseñé una caja estanca, la cual fue fabricada utilizando una impresora 3D. Esta caja consta de una estructura con una tapa, que está diseñada para fijar una pantalla LCD y tres luces LED, esenciales para mostrar la información de los sensores. Además, diseñé un soporte específico para mantener uno de los sensores dentro de la caja del desalinizador, asegurando que estuviera bien sujeto, ya que estará en contacto con el agua durante el funcionamiento.
 
 ![](../images/Proyecto/Producto%20fianl/caja%20estanca%20dsieño.PNG)
 ![](../images/Proyecto/Producto%20fianl/soportes.PNG)
@@ -63,16 +63,13 @@ Para la automatización y programación del proceso, así como para la integraci
 
 <em>Sensor de nivel de agua (bolla):</em> Este sensor está ubicado dentro de la caja interior del desalinizador. Utiliza una boya para enviar señales sobre la altura del agua. Cuando el nivel es bajo, el Arduino activa la bomba ubicada en el depósito de agua exterior, aumentando el nivel en el interior de la caja. Cuando el agua alcanza el nivel óptimo, el Arduino apaga la bomba para evitar un exceso de agua.
 
-<em>Sensor de temperatura:</em> Este sensor mide la temperatura del agua en el depósito del agua producida. Dado que el agua salida del desalinizador puede estar a una temperatura muy alta, es importante monitorearla, ya que puede ser peligrosa para el consumo. El valor de la temperatura se muestra en la pantalla LCD ubicada en la caja estanca, junto con la distancia en centímetros que falta para llenar el recipiente.
+<em>Sensor de temperatura:</em> Este sensor mide la temperatura del agua en el depósito del agua producida. Dado que el agua salida del desalinizador puede estar a una temperatura muy alta y puede ser peligrosa para el consumo. El valor de la temperatura se muestra en la pantalla LCD ubicada en la caja estanca, junto con la distancia en centímetros que falta para terminar de llenar el recipiente.
 
-<em>Luces LED (roja, amarilla, azul):</em> Tres luces LED indican visualmente la cantidad de agua producida:
+<em>Luces LED (roja, amarilla, azul):</em> Estas tres luces LED indican la cantidad de agua producida. Rojo, indica que la cantidad de agua es baja, Amarillo, señala que la cantidad de agua es media, Azul, muestra que hay una buena cantidad de agua producida, lista para el consumo.
 
-Rojo: indica que la cantidad de agua es baja.
-Amarillo: señala que la cantidad de agua es media.
-Azul: muestra que hay una buena cantidad de agua producida, lista para el consumo.
-Bomba de agua para limpieza: Dentro de la caja interna del desalinizador, hay una bomba que permite extraer el agua del sistema para realizar una limpieza. Esta bomba es activada por un pulsador manual ubicado fuera de la caja estanca.
+<em>Bomba de agua para limpieza:</em> Dentro de la caja interna del desalinizador, hay una bomba que permite extraer el agua del sistema para realizar una limpieza. Esta bomba es activada por un pulsador manual ubicado fuera de la caja estanca.
 
-<em>Resistencias:</em> Tanto el sensor de temperatura como las luces LED están conectados en el circuito con resistencias para regular el flujo de corriente. El sensor de temperatura tiene una resistencia de 1000 ohm, mientras que cada luz LED tiene una resistencia de 220 ohm en su pin positivo, ambas conectadas en serie para garantizar un funcionamiento adecuado.
+<em>Resistencias:</em> Tanto el sensor de temperatura como las luces LED están conectados en el circuito con resistencias. El sensor de temperatura tiene una resistencia de 1000 ohm, mientras que cada luz LED tiene una resistencia de 220 ohm en su pin positivo, conectadas en serie.
 
 ![](../images/Proyecto/Producto%20fianl/arduinooo.PNG)
 
@@ -95,49 +92,47 @@ Archivo .ino <a href="../Archivos/Codigoproyectofinal.ino" download="Codigo_Ardu
 
 <strong>Pasos del armado:</strong>
 
-1- Como primer paso, después de tener todos los cortes e impresiones realizados junto con los materiales necesarios, comencé ensamblando la caja exterior (Figura 1). Este diseño me permitió ensamblar las piezas fácilmente y, gracias a los encastres con cuñas, no tuve problemas para evitar que la caja se desarmara.
+1- Como primer paso, después de tener todos los cortes e impresiones realizados junto con los materiales necesarios, comencé ensamblando la caja exterior. Este diseño me permitió ensamblar las piezas fácilmente y, gracias a los encastres con cuñas, no tuve problemas que la caja se desarmara.
 
 ![](../images/Proyecto/Producto%20fianl/1.PNG)                               
-<small>Figura 1</small> 
 
-2- Una vez que tuve terminada la caja exterior, continué cortando la aislación para montarla. La aislación desempeña un papel clave en el armado y rigidez de las cajas, ya que al entrar a presión, mantiene las piezas en su lugar, evitando cualquier movimiento o desajuste (Figura 2).
+
+2- Una vez que tuve terminada la caja exterior, continué cortando la aislación para montarla. La aislación desempeña un papel importante en el armado y rigidez de las cajas, ya que al entrar a presión, mantiene las piezas en su lugar, evitando cualquier movimiento o desajuste.
 
 ![](../images/Proyecto/Producto%20fianl/2.PNG)                            
-<small>Figura 2</small>
 
 
-3- Para el armado de la caja interna, utilicé la aislación previamente colocada, ya que los encastres de esta caja no son lo suficientemente firmes por sí mismos. Sin embargo, al aplicar presión hacia adentro con la aislación, las piezas se mantienen ensambladas y no se desajustan ni se desencastran (Figura 3).
+3- Para el armado de la caja interna, utilicé la aislación previamente colocada, ya que los encastres de esta caja no son lo suficientemente firmes por sí mismos. Sin embargo, al aplicar presión hacia adentro con la aislación, las piezas se mantienen ensambladas y no se desajustan ni se desencastran.
 
 ![](../images/Proyecto/Producto%20fianl/3.PNG)     
 ![](../images/Proyecto/Producto%20fianl/33.PNG)                           
-<small>Figura 3</small>
 
 
-4- Una vez que todo estaba fijo y en su lugar, continué con el proceso de hacer la caja interna impermeable. Para ello, utilicé un nylon plástico de 150 micrones. Primero, extendí el plástico sobre una mesa y tracé el contorno de la caja que quería formar. Después de realizar los cortes a la medida exacta, uní las cuatro esquinas para darle la forma precisa de la caja interna. Para sellar las esquinas, utilicé una máquina de vacío que incluye una selladora por calor, lo que permitió asegurar una unión hermética (Figura 4).
+4- Una vez que todo estaba fijo y en su lugar, continué con el proceso de hacer la caja interna impermeable. Para ello, utilicé un nylon plástico de 150 micrones. Primero, extendí el plástico sobre una mesa y tracé el contorno de la caja que quería formar. Después de realizar los cortes a la medida exacta, uní las cuatro esquinas para darle la forma precisa de la caja interna. Para sellar las esquinas, utilicé una máquina de vacío que incluye una selladora por calor, lo que permitió asegurar una buena unión.
 
 ![](../images/Proyecto/Producto%20fianl/nylon.PNG)                             
-<small>Figura 4</small>
 
-5- Como siguiente paso, realicé los cortes necesarios en los tubos para capturar las gotas de agua provenientes de la condensación. Corté dos tubos de 50 cm de largo y un corte a la mitad de su diámetro. En el extremo de cada tubo, coloqué un codo y añadí un excedente de 10 cm para mejorar el vertido del agua hacia un recipiente de acumulación (Figura 5).
 
-Simultáneamente, me encargué de colocar la grava en la base de la caja. Primero, clasifiqué y lavé bien la grava con abundante agua para eliminar la suciedad, restos vegetales y otras impurezas, asegurando que estuviera lista para su uso en el sistema.
+5- Como siguiente paso, realicé los cortes necesarios en los tubos para capturar las gotas de agua provenientes de la condensación. Corté un tubo de 60cm de largo y le realicé dos cortes tranversales de 50cm quitándole el material resultante entre ellos. En el extremo del tubo, coloqué un codo y añadí un excedente de 10 cm para mejorar el vertido del agua hacia el recipiente de acumulación.
+
+Simultáneamente, me encargué de colocar la grava en la base de la caja. Primero, clasifiqué y lavé bien la grava con abundante agua para eliminar la suciedad, restos vegetales y otras impurezas, asegurando que estuviera lista para su uso.
 
 ![](../images/Proyecto/Producto%20fianl/5.PNG)                                     
-<Small>Figura 5</small>
 
-6- Una vez que pude colocar la caja estanca y dimensionar los lugares donde iban a ir instalados los sensores, continué con la instalación del Arduino Uno. Lo instalé en un costado, específicamente en el lateral que da hacia el punto cardinal Este, ya que es el área que recibirá los rayos de sol más suaves y tenues durante el día (Figura 6). Esto permitió protegerlo de la exposición directa al sol, a la vez que aseguraba su funcionalidad dentro del sistema.
+
+6- Una vez que pude colocar la caja estanca y dimensionar los lugares donde iban a ir instalados los sensores, continué con la instalación del Arduino Uno. Lo instalé en un costado, específicamente en el lateral que da hacia el punto cardinal Este, ya que es el área que recibirá los rayos de sol más suaves y tenues durante el día. Esto permitió protegerlo de la exposición directa al sol, a la vez que aseguraba su funcionalidad.
 
 ![](../images/Proyecto/Producto%20fianl/estancaaa.PNG)                                                                  
-<small>Figura 6</small>
 
-7- Por último, realicé la instalación de los sensores y los motores. El sensor de nivel, ubicado dentro del desalinizador, está sujeto mediante un soporte impreso en 3D. La bomba de succión, que bombea el agua hacia el interior del desalinizador, no está fijada a ninguna superficie, lo que permite que se instale directamente en el recipiente que recolecta el agua sin tratar. El motor de evacuación de agua, ubicado dentro del desalinizador, está fijado al fondo de la caja para garantizar la evacuación completa del agua.
 
-Los sensores de temperatura y de nivel de agua, que miden el agua en el recipiente exterior donde se acumula el agua producida, están sujetos de manera firme al mismo recipiente (Figura 7).
+7- Por último, realicé la instalación de los sensores y los motores. El sensor de nivel, ubicado dentro del desalinizador, está sujeto mediante un soporte impreso en 3D. La bomba de succión, que bombea el agua hacia el interior del desalinizador, no está fijada a ninguna superficie, lo que permite que se instale directamente en el recipiente que se recolecta el agua sin tratar. El motor de evacuación de agua, ubicado dentro del desalinizador, está fijado al fondo de la caja para garantizar la evacuación completa del agua.
+
+Los sensores de temperatura y de nivel de agua, que miden el agua en el recipiente exterior donde se acumula el agua producida, están sujetos al mismo recipiente.
 
 ![](../images/Proyecto/Producto%20fianl/6.PNG)                              
-<small>Figura 7</small>
 
-8- Después de haber realizado todas las pruebas necesarias, procedí con la colocación de los vidrios superiores, que son los encargados de condensar el vapor y generar las gotas de agua. Estos vidrios juegan un papel clave en el proceso de captación de agua, permitiendo la máxima eficiencia en la condensación.
+
+8- Después de haber realizado todas las pruebas necesarias, procedí con la colocación de los vidrios superiores, que son los encargados de condensar el vapor y generar las gotas de agua.
 
 
 <strong>Pruebas de la electrónica y programación:</strong>
@@ -155,7 +150,7 @@ Acá se puede ver todos los sensores, bombas y actuadores en funcionamiento.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qpV1dIpEi4E?si=oXOIm3BFJl1JWp0n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <small>Breve explicación del funcionamiento</strong>
 
-En el siguiente video se puede ver que al aumentar la cantidad de agua las luces LED nos indican según el color la cantidad de agua disponible producida. También podemos notar en la pantalla, la temperatura del agua que se encuentra en el recipiente y la distancia disponible que tenemos para seguir produciendo.
+En el siguiente video se puede ver que al aumentar la cantidad de agua, las luces LED nos indican según el color la cantidad de agua disponible producida. También podemos notar en la pantalla, la temperatura del agua que se encuentra en el recipiente y la distancia disponible que tenemos para seguir produciendo.
 
 ![](../images/Proyecto/Producto%20fianl/led.PNG)
 
