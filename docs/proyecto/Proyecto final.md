@@ -115,14 +115,14 @@ Archivo .ino <a href="../Archivos/Codigoproyectofinal.ino" download="Codigo_Ardu
 ![](../images/Proyecto/Producto%20fianl/nylon.PNG)                             
 
 
-5- Como siguiente paso, realicé los cortes necesarios en los tubos para capturar las gotas de agua provenientes de la condensación. Corté un tubo de 60cm de largo y le realicé dos cortes tranversales de 50cm quitándole el material resultante entre ellos. En el extremo del tubo, coloqué un codo y añadí un excedente de 10 cm para mejorar el vertido del agua hacia el recipiente de acumulación.
+5- Como siguiente paso, realicé los cortes necesarios en los tubos para capturar las gotas de agua provenientes de la condensación. Corté un tubo de 60cm de largo y le realicé dos cortes tranversales de 50cm quitándole el material resultante entre ellos. En el extremo del tubo, coloqué un codo y añadí un excedente de 10cm para mejorar el vertido del agua hacia el recipiente de acumulación.
 
 Simultáneamente, me encargué de colocar la grava en la base de la caja. Primero, clasifiqué y lavé bien la grava con abundante agua para eliminar la suciedad, restos vegetales y otras impurezas, asegurando que estuviera lista para su uso.
 
 ![](../images/Proyecto/Producto%20fianl/5.PNG)                                     
 
 
-6- Una vez que pude colocar la caja estanca y dimensionar los lugares donde iban a ir instalados los sensores, continué con la instalación del Arduino Uno. Lo instalé en un costado, específicamente en el lateral que da hacia el punto cardinal Este, ya que es el área que recibirá los rayos de sol más suaves y tenues durante el día. Esto permitió protegerlo de la exposición directa al sol, a la vez que aseguraba su funcionalidad.
+6- Una vez que pude colocar la caja estanca y dimensionar los lugares donde iban a ir instalados los sensores, continué con la instalación del Arduino Uno. Lo instalé en un costado, específicamente en el lateral que da hacia el punto cardinal Este, ya que es el área que recibirá los rayos de sol más suaves y tenues durante el día. Esto permitió protegerlo de la exposición directa al sol.
 
 ![](../images/Proyecto/Producto%20fianl/estancaaa.PNG)                                                                  
 
@@ -134,25 +134,26 @@ Los sensores de temperatura y de nivel de agua, que miden el agua en el recipien
 ![](../images/Proyecto/Producto%20fianl/6.PNG)                              
 
 
-8- Después de haber realizado todas las pruebas necesarias, procedí con la colocación de los vidrios superiores, que son los encargados de condensar el vapor y generar las gotas de agua.
+8- Después de haber realizado todas las pruebas necesarias, procedí con la colocación y sellado de los vidrios superiores, que son los encargados de condensar el vapor y generar las gotas de agua.
 
 
 <strong>Pruebas de la electrónica y programación:</strong>
 
-Al finalizar el armado de la estructura e instalación de los sensores y bombas, realice una prueba de funcionamiento de los mismos donde se puede ver a continuación:
+Al finalizar el armado de la estructura e instalación de los sensores y bombas, realice una prueba de funcionamiento de los mismos, donde se puede ver a continuación:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Q7bQzj2HQQ?si=ceeeP51VTp-qrKKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Acá se puede ver todos los sensores, bombas y actuadores en funcionamiento.
+<small>Acá se puede ver todos los sensores, bombas y actuadores en funcionamiento.</small>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Va2UhfEKFEo?si=OEqA5u3-34agbX12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<small>Llenado del vaso recolector, impresión en pantalla LED de los datos como también encendido de las luces LED</small>
+
+En el siguiente video se puede ver que al aumentar la cantidad de agua, las luces LED nos indican según el color la cantidad de agua disponible producida. También podemos notar en la pantalla, la temperatura del agua que se encuentra en el recipiente y la distancia disponible que tenemos para seguir produciendo.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qpV1dIpEi4E?si=oXOIm3BFJl1JWp0n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <small>Breve explicación del funcionamiento</small>
-
-En el siguiente video se puede ver que al aumentar la cantidad de agua, las luces LED nos indican según el color la cantidad de agua disponible producida. También podemos notar en la pantalla, la temperatura del agua que se encuentra en el recipiente y la distancia disponible que tenemos para seguir produciendo.
 
 ![](../images/Proyecto/Producto%20fianl/led.PNG)
 
