@@ -178,7 +178,7 @@ Este tipo de desalinizador debería escalarse unas seis veces en tamaño para al
 
 El proceso de purificación y potabilización del agua es altamente efectivo y no produce contaminantes en ninguna de sus etapas, ya que se basa en un proceso similar al ciclo natural del agua en nuestro planeta. Esto lo convierte en una opción sostenible y respetuosa con el medio ambiente.
 
-![](../images/Proyecto/Producto%20fianl/desalinizador%20terminado.PNG)
+![](../images/Proyecto/Producto%20fianl/foto%20terminado.PNG)
 
 
 ¿Quieres construir tu desalinizador solar? <a href="../Cómo construir mi desalinizador solar final vertical acomodado.pdf" download="Desalinizador Solar"> <strong>Descarga</strong> </a> y sigue los siguientes pasos. 
