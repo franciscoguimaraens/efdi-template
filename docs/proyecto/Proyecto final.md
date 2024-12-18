@@ -5,7 +5,7 @@ hide:
 
 # Proyecto Final
 
-Después de realizar las pruebas e investigaciones necesarias y obtener un resultado satisfactorio, en el cual el prototipo cumple con las expectativas, especialmente en cuanto a la capacidad de generar agua apta para el consumo humano, continué trabajando en un prototipo final. Las características y medidas de este prototipo son idénticas a las del anterior, pero incluye mecanismos electrónicos y automatización. Además, este fue diseñado y fabricado utilizando máquinas de precisión, como cortadoras láser e impresoras 3D, lo que permitió un ensamblaje más preciso y eficiente.
+Después de realizar las pruebas e investigaciones necesarias y obtener un resultado satisfactorio, en el cual el prototipo cumple con las expectativas, especialmente en cuanto a la capacidad de generar agua apta para el consumo humano, continué trabajando en un prototipo final. Las características y medidas de este prototipo son idénticas a las del anterior, pero incluye mecanismos electrónicos y automatización. Además, este fue diseñado y fabricado utilizando máquinas de precisión, como cortadoras láser e impresoras 3D, lo que permitió un ensamble más preciso y eficiente.
 
 <strong>Construcción:</strong>
 
@@ -26,7 +26,7 @@ En la imagen se puede ver el primer diseño realizado, que corresponde a la caja
 
 <em>Caja exterior:</em>
 
-Aquí se muestra el diseño de la caja exterior, que consta de una base y sus caras laterales. Esta caja está diseñada para que sus piezas encastren perfectamente entre sí, y para garantizar su estructura y rigidez, se le colocan cuñas. Su función principal es soportar todas las fuerzas internas generadas por el agua y los objetos que se encuentran en su interior, proporcionando estabilidad y resistencia al prototipo.
+Aquí se muestra el diseño de la caja exterior, que consta de una base y sus caras laterales. Esta caja está diseñada para que sus piezas encastren perfectamente entre sí, y para garantizar su estructura y rigidez se le colocan cuñas. Su función principal es soportar todas las fuerzas internas generadas por el agua y los objetos que se encuentran en su interior, proporcionando estabilidad y resistencia al modelo.
 
 ![](../images/Proyecto/Producto%20fianl/subir%201.PNG)
 
@@ -35,18 +35,20 @@ Aquí se muestra el diseño de la caja exterior, que consta de una base y sus ca
 Para proteger el Arduino y sus componentes de la exposición directa a los rayos del sol, diseñé una caja estanca, la cual fue fabricada utilizando una impresora 3D. Esta caja consta de una estructura con una tapa, que está diseñada para fijar una pantalla LCD y tres luces LED, esenciales para mostrar la información de los sensores. Además, diseñé un soporte específico para mantener uno de los sensores dentro de la caja del desalinizador, asegurando que estuviera bien sujeto, ya que estará en contacto con el agua durante el funcionamiento.
 
 ![](../images/Proyecto/Producto%20fianl/caja%20estanca%20dsieño.PNG)
+<small>Caja estanca</small>
 ![](../images/Proyecto/Producto%20fianl/soportes.PNG)
-
+<small>Soporte</small>
 <strong>Cortes e impresión en 3D</strong>
 
 Para los cortes de las cajas utilice una cortadora laser la cual me permitió realizar cortes precisos, también realice un grabado con el nombre de "Desalinizador solar" y dos logos en la cara frontal de la caja exterior. Como parámetros para los cortes Utilice una potencia de 75% y una velocidad de 15mm/s, el grabado lo realice con una potencia de 10% y una velocidad de 300mm/s.
 La impresión la realice con una impresora RAISED Pro3 Plus con filamento blanco.
 
 ![](../images/Proyecto/Producto%20fianl/cortes.PNG)
-
+<small>Cortadora laser</small>
 ![](../images/Proyecto/Producto%20fianl/piezas.PNG)
-
+<small>Cortes</small>
 ![](../images/Proyecto/Producto%20fianl/caja.PNG)
+<small>Impresión 3D</small>
 
 Archivos .dxf <a href="../Archivos/Exterior.zip" download="Caja Exterior"> <strong>Caja exterior</strong> </a>
 
