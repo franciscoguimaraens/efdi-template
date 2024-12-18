@@ -36,7 +36,7 @@ Esto significa que, aunque el agua cubre gran parte de nuestro planeta, solo una
 
 En el proyecto de purificación y desalinización del agua, se buscó imitar el ciclo del agua. El proceso funciona de la siguiente manera: el agua de mar se vierte en un recipiente construido especialmente para este fin. Dentro del recipiente, el agua absorbe la energía solar y, al aumentar la temperatura, se evapora. El vapor sube y, debido al efecto de la convección, choca contra la pared superior de la caja a menor temperatura.
 
-Al entrar en contacto con una superficie de menor temperatura, el vapor se condensa y se forman gotas de agua. Estas gotas se deslizan por la pared superior hasta llegar a un tubo recolector.
+Al entrar en contacto con una superficie de menor temperatura, el vapor se condensa y se forman gotas de agua. Estas gotas se deslizan por la pared superior hasta llegar a un tubo recolector, el cual lleva las gotas de agua hacia el exterior, donde está el vaso de acumulación.
 
 Aunque este proceso se asemeja al ciclo del agua natural, no se completa de la misma manera, ya que el agua resultante no vuelve a entrar al sistema.
 
@@ -49,7 +49,7 @@ Las distintas paredes nos separan del exterior, generando en su interior un micr
 
 <em>Vidrio:</em>
 
-Cuando tenemos un cerramiento transparente con una sola lámina de vidrio y la temperatura interior es mayor que la exterior (como ocurre en invierno), el movimiento del aire transporta calor hacia la superficie fría del vidrio, haciendo que este pierda calor por conducción y convección. Para reducir este efecto, se utilizan dos vidrios separados entre sí, creando un espacio de aire o gas que actúa como aislante. Este tipo de diseño es muy común en hornos de cocina.
+Cuando tenemos un cerramiento transparente con una sola lámina de vidrio y la temperatura interior es mayor que la exterior (como ocurre en invierno), el movimiento del aire transporta calor hacia la superficie fría del vidrio, haciendo que este pierda calor por conducción y convección. Para reducir este efecto, se utilizan dos vidrios separados entre sí, creando un espacio de aire o gas entre ellos que actúa como aislante. Este tipo de diseño es muy común en hornos de cocina.
 
 <em>Absorción de temperatura de los colores:</em>
 
@@ -61,7 +61,7 @@ En el caso de la radiación solar, las superficies oscuras absorben una mayor ca
 ![](../images/Proyecto/Placa/placaspaint.PNG)
 <small>Experimento realizado con dos placas de diferentes colores</small>
 
-Aquí podemos ver cómo los materiales de color negro alcanzan temperaturas más altas que las superficies blancas o metálicas cuando se exponen a la radiación solar.
+Aquí podemos ver cómo los materiales de color negro alcanzan temperaturas más altas que las superficies blancas cuando se exponen a la radiación solar.
 
 <em>Inercia térmica de algunos materiales:</em>
 
