@@ -61,17 +61,17 @@ Archivos .stl <a href="../Archivos/Soporte.stl" download="Soporte"> <strong>Sopo
 <strong>Electrónica y Programación</strong>
 
 
-Para la automatización y programación del proceso, así como para la integración de los sensores, utilicé un Arduino Uno. El sistema consta de varios componentes clave:
+Para la automatización y programación del proceso, así como para la integración de los sensores, utilicé un Arduino Uno. El sistema consta de varios componentes:
 
-<em>Sensor de nivel de agua (bolla):</em> Este sensor está ubicado dentro de la caja interior del desalinizador. Utiliza una boya para enviar señales sobre la altura del agua. Cuando el nivel es bajo, el Arduino activa la bomba ubicada en el depósito de agua exterior, aumentando el nivel en el interior de la caja. Cuando el agua alcanza el nivel óptimo, el Arduino apaga la bomba para evitar un exceso de agua.
+<em>1-Sensor de nivel de agua (bolla):</em> Este sensor está ubicado dentro de la caja interior del desalinizador. Utiliza una boya para enviar señales sobre la altura del agua. Cuando el nivel es bajo, el Arduino activa la bomba ubicada en el depósito de agua exterior, aumentando el nivel en el interior de la caja. Cuando el agua alcanza el nivel óptimo, el Arduino apaga la bomba para evitar un exceso de agua.
 
-<em>Sensor de temperatura:</em> Este sensor mide la temperatura del agua en el depósito del agua producida. Dado que el agua salida del desalinizador puede estar a una temperatura muy alta y puede ser peligrosa para el consumo. El valor de la temperatura se muestra en la pantalla LCD ubicada en la caja estanca, junto con la distancia en centímetros que falta para terminar de llenar el recipiente.
+<em>2-Sensor de temperatura:</em> Este sensor mide la temperatura del agua en el depósito del agua producida. Dado que el agua salida del desalinizador puede estar a una temperatura muy alta y puede ser peligrosa para el consumo. El valor de la temperatura se muestra en la pantalla LCD ubicada en la caja estanca, junto con la distancia en centímetros que falta para terminar de llenar el recipiente.
 
-<em>Luces LED (roja, amarilla, azul):</em> Estas tres luces LED indican la cantidad de agua producida. Rojo, indica que la cantidad de agua es baja, Amarillo, señala que la cantidad de agua es media, Azul, muestra que hay una buena cantidad de agua producida, lista para el consumo.
+<em>3-Luces LED (roja, amarilla, azul):</em> Estas tres luces LED indican la cantidad de agua producida. Rojo, indica que la cantidad de agua es baja, Amarillo, señala que la cantidad de agua es media, Azul, muestra que hay una buena cantidad de agua producida, lista para el consumo.
 
-<em>Bomba de agua para limpieza:</em> Dentro de la caja interna del desalinizador, hay una bomba que permite extraer el agua del sistema para realizar una limpieza. Esta bomba es activada por un pulsador manual ubicado fuera de la caja estanca.
+<em>4-Bomba de agua para limpieza:</em> Dentro de la caja interna del desalinizador, hay una bomba que permite extraer el agua del sistema para realizar una limpieza. Esta bomba es activada por un pulsador manual ubicado fuera de la caja estanca.
 
-<em>Resistencias:</em> Tanto el sensor de temperatura como las luces LED están conectados en el circuito con resistencias. El sensor de temperatura tiene una resistencia de 1000 ohm, mientras que cada luz LED tiene una resistencia de 220 ohm en su pin positivo, conectadas en serie.
+<em>5-Resistencias:</em> Tanto el sensor de temperatura como las luces LED están conectados en el circuito con resistencias. El sensor de temperatura tiene una resistencia de 1000 ohm, mientras que cada luz LED tiene una resistencia de 220 ohm en su pin positivo, conectadas en serie.
 
 ![](../images/Proyecto/Producto%20fianl/arduinooo.PNG)
 
