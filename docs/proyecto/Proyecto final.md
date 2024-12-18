@@ -15,27 +15,24 @@ La caja interna está pintada de negro en su interior y recubierta con nylon pl�
 
 <strong>Modelado 2D y 3D:</strong>
 
-Para el diseño y modelado utilice el programa fuison 360, con este realice todos los diseños que se mostraran a continuación.
-Me permitió realizar construcciones en 2D para luego extruirlas, ensamblarlas y verificar antes de traerlos a la realidad y así ver si cumplían con lo requerido.
+
+Para el diseño y modelado, utilicé el programa Fusion 360, con el cual realicé todos los diseños que se presentarán a continuación. Este programa me permitió crear modelos en 2D, los cuales luego pude extruir, ensamblar y verificar antes de llevarlos a la realidad. De esta manera, pude asegurarme de que los diseños cumplían con los requisitos establecidos.
 
 <em>Caja interior:</em>
 
-En la imagen se puede apreciar el primer diseño realizado. Este es el diseño de la caja interior del desalinizador, su base y sus laterales están diseñadas para ser encastradas unas con otras sin necesidad de utilizar ningún pegamento ni otro objeto.
+En la imagen se puede ver el primer diseño realizado, que corresponde a la caja interior del desalinizador. Su base y laterales están diseñados para encastrarse entre sí sin la necesidad de usar pegamento ni ningún otro tipo de fijación. Este sistema de encastre permite una construcción más sencilla y eficiente, asegurando la estabilidad de la estructura sin complicaciones adicionales.
 
 ![](../images/Proyecto/Producto%20fianl/subir%202.PNG)
 
 <em>Caja exterior:</em>
 
-Acá podemos ver el diseño de la caja exterior, la cual está constituida por una base y sus caras laterales. La caja está diseñada de tal forma que encastre una pieza con otra, para mantener su estructura y rigidez se le coloca cuñas.
-Esta caja es la encargada de soportar todas las fuerzas internas, provocadas por el agua y los objetos que están dentro.
+Aquí se muestra el diseño de la caja exterior, que consta de una base y sus caras laterales. Esta caja está diseñada para que sus piezas encastren perfectamente entre sí, y para garantizar su estructura y rigidez, se le colocan cuñas. Su función principal es soportar todas las fuerzas internas generadas por el agua y los objetos que se encuentran en su interior, proporcionando estabilidad y resistencia al prototipo.
 
 ![](../images/Proyecto/Producto%20fianl/subir%201.PNG)
 
 <em>Caja estanca y soporte:</em>
 
-Para mantener el Arduino y sus componentes juntos fuera del alcance de los rayos del sol, diseñe una caja estanca, la cual para su construcción utilice una impresora 3D.
-Esta está constituida por una caja y una tapa, la cual esta última está diseñada para fijar una pantalla LCD y 3 luces LED, necesarias para mostrar información de los sensores.
-El soporte fue diseñado para sostener uno de los sensores dentro de la caja del desalinizador, el cual debía de estar bien sujeto ya que estará en contacto con el agua.  
+Para proteger el Arduino y sus componentes de la exposición directa a los rayos del sol, diseñé una caja estanca, la cual fue fabricada utilizando una impresora 3D. Esta caja consta de una estructura con una tapa, que está diseñada para fijar una pantalla LCD y tres luces LED, esenciales para mostrar la información de los sensores. Además, se diseñó un soporte específico para mantener uno de los sensores dentro de la caja del desalinizador, asegurando que estuviera bien sujeto, ya que estará en contacto con el agua durante el funcionamiento del prototipo.
 
 ![](../images/Proyecto/Producto%20fianl/caja%20estanca%20dsieño.PNG)
 ![](../images/Proyecto/Producto%20fianl/soportes.PNG)
@@ -61,12 +58,21 @@ Archivos .stl <a href="../Archivos/Soporte.stl" download="Soporte"> <strong>Sopo
 
 <strong>Electrónica y Programación</strong>
 
-Para la automatización y programación del proceso y los sensores utilice Arduino Uno.
-Utilice un sensor de nivel de agua (bolla), dos bombas de agua, un sensor de temperatura, un sensor de ultrasonido y un pulsador.
-El sensor de nivel de agua está ubicado dentro de la caja interior del desalinizador, el cual mediante una boya envía una señal de la altura del agua dentro. Cuando envía una señal de bajo nivel al Arduino, enciende la bomba que está ubicada en el depósito de agua exterior, para así aumentar el nivel de agua en el interior de la caja del desalinizador y que siempre se mantenga con una cantidad de agua apropiada. Cuando el sensor le indica al Arduino que el agua llego a su altura optima, este apaga la bomba para que no siga ingresando.
-El sensor de temperatura, nos indica a la temperatura que se encuentra el agua en el depósito del agua producida, ya que este al salir del desalinizador se encuentra a una temperatura muy elevada y puede ser peligrosa al intentar ingerirla. Este Resultado lo podemos ver impreso en la pantalla LCD, ubicado en la caja estanca junto con la distancia en centímetros del faltante para llenar nuestro recipiente. Aparte de esto hay 3 luces LED (Roja, Amarilla y Azul) que nos indica de manera visual la cantidad de agua que tenemos producida, donde el color rojo nos indica una cantidad de agua baja, en amarillo cuando la cantidad de agua es media y en azul cuando tenemos una buena cantidad de agua producida lista para ser consumida.
-Dentro de la caja interna del desalinizador, está instalada una bomba de agua que tiene como función sacar el agua del desalinizador para realizar una limpieza cuando se desee. Esta bomba es accionada por un pulsador manual que se encuentra fuera de la caja estanca.
-El sensor de temperatura y las luces LED, están instaladas en el circuito cada una con una resistencia, donde el sensor de temperatura tiene una resistencia de 1000 ohm y las luces LED tienen en su pin positivo una resistencia de 220 ohm, cada una conectadas en serie. 
+
+Para la automatización y programación del proceso, así como para la integración de los sensores, utilicé un Arduino Uno. El sistema consta de varios componentes clave:
+
+<em>Sensor de nivel de agua (bolla):</em> Este sensor está ubicado dentro de la caja interior del desalinizador. Utiliza una boya para enviar señales sobre la altura del agua. Cuando el nivel es bajo, el Arduino activa la bomba ubicada en el depósito de agua exterior, aumentando el nivel en el interior de la caja. Cuando el agua alcanza el nivel óptimo, el Arduino apaga la bomba para evitar un exceso de agua.
+
+<em>Sensor de temperatura:</em> Este sensor mide la temperatura del agua en el depósito del agua producida. Dado que el agua salida del desalinizador puede estar a una temperatura muy alta, es importante monitorearla, ya que puede ser peligrosa para el consumo. El valor de la temperatura se muestra en la pantalla LCD ubicada en la caja estanca, junto con la distancia en centímetros que falta para llenar el recipiente.
+
+<em>Luces LED (roja, amarilla, azul):</em> Tres luces LED indican visualmente la cantidad de agua producida:
+
+Rojo: indica que la cantidad de agua es baja.
+Amarillo: señala que la cantidad de agua es media.
+Azul: muestra que hay una buena cantidad de agua producida, lista para el consumo.
+Bomba de agua para limpieza: Dentro de la caja interna del desalinizador, hay una bomba que permite extraer el agua del sistema para realizar una limpieza. Esta bomba es activada por un pulsador manual ubicado fuera de la caja estanca.
+
+<em>Resistencias:</em> Tanto el sensor de temperatura como las luces LED están conectados en el circuito con resistencias para regular el flujo de corriente. El sensor de temperatura tiene una resistencia de 1000 ohm, mientras que cada luz LED tiene una resistencia de 220 ohm en su pin positivo, ambas conectadas en serie para garantizar un funcionamiento adecuado.
 
 ![](../images/Proyecto/Producto%20fianl/arduinooo.PNG)
 
@@ -89,50 +95,49 @@ Archivo .ino <a href="../Archivos/Codigoproyectofinal.ino" download="Codigo_Ardu
 
 <strong>Pasos del armado:</strong>
 
-1- Como primer paso luego de tener todos los cortes e impresiones ya echas junto con los materiales que necesitaba, comencé armando la caja exterior (Figura 1), esta me permitía ensamblarla, y debido a los encastres con cuñas no tenía problemas de que se vuelva a desmontar.
+1- Como primer paso, después de tener todos los cortes e impresiones realizados junto con los materiales necesarios, comencé ensamblando la caja exterior (Figura 1). Este diseño me permitió ensamblar las piezas fácilmente y, gracias a los encastres con cuñas, no tuve problemas para evitar que la caja se desarmara.
 
 ![](../images/Proyecto/Producto%20fianl/1.PNG)                               
 <small>Figura 1</small> 
 
-2- Al tener terminada esta, continue cortando la aislación para montarla. La aislación ayuda en el armado y rigidez de las cajas ya que al entrar a presión mantiene las cajas en su lugar sin tener movimientos. (Figura 2).
+2- Una vez que tuve terminada la caja exterior, continué cortando la aislación para montarla. La aislación desempeña un papel clave en el armado y rigidez de las cajas, ya que al entrar a presión, mantiene las piezas en su lugar, evitando cualquier movimiento o desajuste (Figura 2).
 
 ![](../images/Proyecto/Producto%20fianl/2.PNG)                            
 <small>Figura 2</small>
 
 
-3- Para el armado de la caja interna me ayude con la aislación antes colocada ya que los encastres de esta caja son tal que no quedan fijas por sí mismas, pero el aislante al estar sometiendo una presión hacia adentro hace que estas piezas se mantengan ensambladas y no se des encastre. (Figura 3).
+3- Para el armado de la caja interna, utilicé la aislación previamente colocada, ya que los encastres de esta caja no son lo suficientemente firmes por sí mismos. Sin embargo, al aplicar presión hacia adentro con la aislación, las piezas se mantienen ensambladas y no se desajustan ni se desencastran (Figura 3).
 
 ![](../images/Proyecto/Producto%20fianl/3.PNG)     
 ![](../images/Proyecto/Producto%20fianl/33.PNG)                           
 <small>Figura 3</small>
 
 
-4- Luego al estar ya todo fijo y en su lugar, continue con la permeabilidad de la caja interna, para ello utilice un nylon plástico de 150 micrones. Los cortes los realice extendiendo el plástico sobre una mesa y dibujando la caja que quería formar. Después de dibujar y cortar a la medida justa, uní las cuatro esquinas para que tome la forma exacta de la caja interna, para ello utilice una máquina de vacío la cual tiene incorporada una selladora por calor. (Figura 4).
+4- Una vez que todo estaba fijo y en su lugar, continué con el proceso de hacer la caja interna impermeable. Para ello, utilicé un nylon plástico de 150 micrones. Primero, extendí el plástico sobre una mesa y tracé el contorno de la caja que quería formar. Después de realizar los cortes a la medida exacta, uní las cuatro esquinas para darle la forma precisa de la caja interna. Para sellar las esquinas, utilicé una máquina de vacío que incluye una selladora por calor, lo que permitió asegurar una unión hermética (Figura 4).
 
 ![](../images/Proyecto/Producto%20fianl/nylon.PNG)                             
 <small>Figura 4</small>
 
-5- Como paso siguiente realice los cortes de los tubos que se necesitan para capturar las gotas de agua provenientes de la condensación, a este tubo le realice dos cortes de 50cm de largo y un corte de la mitad de su diámetro. En su extremo le coloque un codo y un excedente de 10cm para mejorar el vertido del agua hacia un recipiente de acumulación. (figura 5).
+5- Como siguiente paso, realicé los cortes necesarios en los tubos para capturar las gotas de agua provenientes de la condensación. Corté dos tubos de 50 cm de largo y un corte a la mitad de su diámetro. En el extremo de cada tubo, coloqué un codo y añadí un excedente de 10 cm para mejorar el vertido del agua hacia un recipiente de acumulación (Figura 5).
 
-Al mismo tiempo le realice la colocación de grava en la base de la caja, la cual primero la clasifique y lave muy bien con abundante agua para quitar la suciedad, restos vegetales y otras impurezas.
-
+Simultáneamente, me encargué de colocar la grava en la base de la caja. Primero, clasifiqué y lavé bien la grava con abundante agua para eliminar la suciedad, restos vegetales y otras impurezas, asegurando que estuviera lista para su uso en el sistema.
 
 ![](../images/Proyecto/Producto%20fianl/5.PNG)                                     
 <Small>Figura 5</small>
 
-6- Al poder ya colocar la caja estanca y dimensionar donde iban a ir instalados los sensores, continue realizando la instalación del Arduino Uno. Este lo instale a un costado, precisamente en el lateral que da al punto cardinal Este, ya que es el que recibirá los rayos de sol más tenues. (Figura 6).
+6- Una vez que pude colocar la caja estanca y dimensionar los lugares donde iban a ir instalados los sensores, continué con la instalación del Arduino Uno. Lo instalé en un costado, específicamente en el lateral que da hacia el punto cardinal Este, ya que es el área que recibirá los rayos de sol más suaves y tenues durante el día (Figura 6). Esto permitió protegerlo de la exposición directa al sol, a la vez que aseguraba su funcionalidad dentro del sistema.
 
 ![](../images/Proyecto/Producto%20fianl/estancaaa.PNG)                                                                  
 <small>Figura 6</small>
 
-7- Por último, realice la instalación de los sensores y los motores. El sensor de nivel que está dentro del desalinizador está sujeto mediante un soporte realizado en impresión en 3D, la bomba de succión que realiza el bombeo del agua para el interior del desalinizador no está sujeta a ninguna superficie, esto para permitir ser instalada en el recipiente que se recolecte el agua sin tratar. El motor de evacuación de agua en el interior del desalinizador, está sujeto al fondo de la misma para permitir la evacuación de la totalidad del agua.
-Los sensores de temperatura y de nivel de agua del recipiente exterior donde se encuentra el agua producida, están sujetos al mismo recipiente. (Figura 7)
+7- Por último, realicé la instalación de los sensores y los motores. El sensor de nivel, ubicado dentro del desalinizador, está sujeto mediante un soporte impreso en 3D. La bomba de succión, que bombea el agua hacia el interior del desalinizador, no está fijada a ninguna superficie, lo que permite que se instale directamente en el recipiente que recolecta el agua sin tratar. El motor de evacuación de agua, ubicado dentro del desalinizador, está fijado al fondo de la caja para garantizar la evacuación completa del agua.
+
+Los sensores de temperatura y de nivel de agua, que miden el agua en el recipiente exterior donde se acumula el agua producida, están sujetos de manera firme al mismo recipiente (Figura 7).
 
 ![](../images/Proyecto/Producto%20fianl/6.PNG)                              
 <small>Figura 7</small>
 
-8- Luego de haber hecho todas las pruebas realice la colocación de los vidrios superiores, que son los encargados de condensar y producir las gotas de agua.
-
+8- Después de haber realizado todas las pruebas necesarias, procedí con la colocación de los vidrios superiores, que son los encargados de condensar el vapor y generar las gotas de agua. Estos vidrios juegan un papel clave en el proceso de captación de agua, permitiendo la máxima eficiencia en la condensación.
 
 
 <strong>Pruebas de la electrónica y programación:</strong>
@@ -169,8 +174,9 @@ Nota: Los videos son de manera explicativa de cómo funciona la electrónica y s
 
 <strong>Conclusión:</strong>
 
-Con este tipo de desalinizador se debería de escalar 6 veces el tamaño para alcanzar la producción necesaria para mantener a una persona promedio en un día. Este tipo de tecnología es de fácil construcción y con costos económicos muy bajos, ya que se lo puede construir reciclando materiales y con herramientas muy básicas. 
-El proceso por el que pasa el agua para purificarse y potabilizarse es efectivo y no produce contaminantes en ningunos de sus procesos, ya que este es similar al proceso que se da de forma natural en nuestro planeta. 
+Este tipo de desalinizador debería escalarse unas seis veces en tamaño para alcanzar la producción necesaria para satisfacer las necesidades diarias de una persona promedio. La ventaja de esta tecnología es que es fácil de construir y tiene un costo muy bajo, ya que se puede fabricar utilizando materiales reciclados y herramientas básicas.
+
+El proceso de purificación y potabilización del agua es altamente efectivo y no produce contaminantes en ninguna de sus etapas, ya que se basa en un proceso similar al ciclo natural del agua en nuestro planeta. Esto lo convierte en una opción sostenible y respetuosa con el medio ambiente.
 
 ![](../images/Proyecto/Producto%20fianl/desalinizador%20terminado.PNG)
 
