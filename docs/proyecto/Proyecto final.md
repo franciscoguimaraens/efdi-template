@@ -181,11 +181,11 @@ El proceso de purificación y potabilización del agua es altamente efectivo y n
 ![](../images/Proyecto/Producto%20fianl/desalinizador%20terminado.PNG)
 
 
-¿Quieres construir tu desalinizador solar? <a href="../Cómo construir mi desalinizador solar final vertical acomodado.pdf" download="Desalinizador Solar"> <strong>Descarga</strong> </a> y sigue los siguientes pasos 
+¿Quieres construir tu desalinizador solar? <a href="../Cómo construir mi desalinizador solar final vertical acomodado.pdf" download="Desalinizador Solar"> <strong>Descarga</strong> </a> y sigue los siguientes pasos. 
 
 <strong>Materiales:</strong>
 
-A continuación se describen en una tabla todos los materiales utilizados para la construcción
+A continuación se describen en una tabla todos los materiales utilizados para la construcción.
 
 ![](../images/Proyecto/Producto%20fianl/Tabla%20mejorada.PNG)
 
