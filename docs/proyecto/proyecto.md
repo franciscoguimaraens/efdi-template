@@ -14,6 +14,7 @@ Ese problema me impactó mucho. Me resultaba increíble que algo así estuviera 
 Otra razón por la que decidí hacer un desalinizador solar es que gran parte del agua del planeta es salada y no potable, pero al mismo tiempo, contamos con una fuente de energía que es abundante, gratuita y no contamina: el sol. Esta combinación me pareció una excelente oportunidad para crear un proyecto sencillo, sostenible y accesible, que pueda ayudar a resolver este problema tan importante y mundial.
 
 ![](../images/Proyecto/Falta%20de%20agua/falta%20de%20agua.PNG)
+<small>Imagen ilustrativa falta de agua</small>
 
 # Marco teórico
 
