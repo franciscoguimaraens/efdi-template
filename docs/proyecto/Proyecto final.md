@@ -38,6 +38,8 @@ Para proteger el Arduino y sus componentes de la exposición directa a los rayos
 <small>Caja estanca</small>
 ![](../images/Proyecto/Producto%20fianl/soportes.PNG)
 <small>Soporte</small>
+
+
 <strong>Cortes e impresión en 3D</strong>
 
 Para los cortes de las cajas utilice una cortadora laser la cual me permitió realizar cortes precisos, también realice un grabado con el nombre de "Desalinizador solar" y dos logos en la cara frontal de la caja exterior. Como parámetros para los cortes Utilice una potencia de 75% y una velocidad de 15mm/s, el grabado lo realice con una potencia de 10% y una velocidad de 300mm/s.
