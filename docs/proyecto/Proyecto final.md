@@ -193,7 +193,7 @@ A continuación se describen en una tabla todos los materiales utilizados para l
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6zU0oFUnbQU?si=eJEwkstHZmcDL-Y6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+<a href="../Archivos/Presentacion final (2).pptx" download="Presentación_final"> <strong>Presentación final</strong> </a>
 
 
 
