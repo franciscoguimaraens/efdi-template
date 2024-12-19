@@ -36,7 +36,9 @@ Para proteger el Arduino y sus componentes de la exposición directa a los rayos
 
 ![](../images/Proyecto/Producto%20fianl/caja%20estanca%20dsieño.PNG)
 <small>Caja estanca</small>
+
 ![](../images/Proyecto/Producto%20fianl/soportes.PNG)
+
 <small>Soporte</small>
 
 
@@ -46,10 +48,15 @@ Para los cortes de las cajas utilice una cortadora laser la cual me permitió re
 La impresión la realice con una impresora RAISED Pro3 Plus con filamento blanco.
 
 ![](../images/Proyecto/Producto%20fianl/cortes.PNG)
+
 <small>Cortadora laser</small>
+
 ![](../images/Proyecto/Producto%20fianl/piezas.PNG)
+
 <small>Cortes</small>
+
 ![](../images/Proyecto/Producto%20fianl/caja.PNG)
+
 <small>Impresión 3D</small>
 
 Archivos .dxf <a href="../Archivos/Exterior.zip" download="Caja Exterior"> <strong>Caja exterior</strong> </a>
@@ -78,6 +85,7 @@ Para la automatización y programación del proceso, así como para la integraci
 ![](../images/Proyecto/Producto%20fianl/arduinooo.PNG)
 
 ![](../images/Proyecto/Producto%20fianl/subir.PNG)
+
 <small>Diagrama unifilar del circuito</small>
 
 <em>Sensores y actuadores utilizados:</em>
